@@ -3,7 +3,7 @@
 """Amazon Japan Beyblade X search watcher.
 
 監控 Amazon.co.jp 搜尋結果，偵測新出現、重新出現、價格下降與消失的商品。
-不需要 Playwright；只使用 requests 讀取 Amazon 搜尋結果 HTML。
+不需要 Playwright；優先使用 curl_cffi 模擬 Chrome 連線，避免 VM 上純 requests 被 Amazon 擋成 503。
 """
 
 from __future__ import annotations
@@ -16,9 +16,13 @@ import re
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from urllib.parse import urljoin
 
 import requests
+
+try:
+    from curl_cffi import requests as curl_requests
+except ImportError:
+    curl_requests = None
 
 
 SEARCH_URL = os.environ.get(
@@ -38,6 +42,7 @@ WATCHLIST_FILE = Path(os.environ.get("WATCHLIST_FILE", "watchlist.json"))
 HISTORY_RETENTION_HOURS = int(os.environ.get("HISTORY_RETENTION_HOURS", "24"))
 FAIL_ALERT_THRESHOLD = int(os.environ.get("FAIL_ALERT_THRESHOLD", "3"))
 FLOOD_THRESHOLD = int(os.environ.get("FLOOD_THRESHOLD", "8"))
+MISSING_RUNS_BEFORE_DELIST = int(os.environ.get("MISSING_RUNS_BEFORE_DELIST", "2"))
 NOTIFY_PRICE_DROP = os.environ.get("NOTIFY_PRICE_DROP", "1") == "1"
 DEBUG = os.environ.get("DEBUG", "0") == "1"
 META_KEY = "__meta__"
@@ -50,7 +55,30 @@ HEADERS = {
     ),
     "Accept-Language": "zh-TW,zh;q=0.9,ja;q=0.8,en;q=0.7",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
+    "Referer": "https://www.amazon.co.jp/",
+    "Upgrade-Insecure-Requests": "1",
 }
+
+AMAZON_COOKIE = os.environ.get("AMAZON_COOKIE", "").strip()
+HTTP_CLIENT = os.environ.get("AMAZON_HTTP_CLIENT", "auto").strip().lower()
+CURL_IMPERSONATE = os.environ.get("CURL_CFFI_IMPERSONATE", "chrome120")
+
+
+def looks_like_captcha(text: str) -> bool:
+    return bool(re.search(r"Robot Check|captcha|輸入您看到的字元|Enter the characters", text, re.I))
+
+
+def looks_like_search_results(text: str) -> bool:
+    return "s-search-result" in text or "data-component-type=\"s-search-result\"" in text or "data-asin=" in text
+
+
+def page_title(text: str) -> str:
+    m = re.search(r"<title[^>]*>([\s\S]*?)</title>", text, re.I)
+    if not m:
+        return "unknown"
+    return strip_tags(m.group(1))[:120] or "unknown"
 
 
 def now_iso() -> str:
@@ -84,18 +112,64 @@ def save_state_with_meta(products: dict, meta: dict) -> None:
     write_json(STATE_FILE, out)
 
 
+def request_search_page() -> str:
+    """讀取 Amazon 搜尋頁。
+
+    VM / VPS 上常見 503，通常是 Amazon 對 requests 的 TLS 指紋比較敏感。
+    因此預設會先用 curl_cffi impersonate Chrome；未安裝時才退回 requests。
+    """
+    headers = dict(HEADERS)
+    if AMAZON_COOKIE:
+        headers["Cookie"] = AMAZON_COOKIE
+
+    clients = []
+    if HTTP_CLIENT in ("auto", "curl", "curl_cffi") and curl_requests is not None:
+        clients.append("curl_cffi")
+    if HTTP_CLIENT in ("auto", "requests"):
+        clients.append("requests")
+    if not clients:
+        clients.append("requests")
+
+    errors = []
+    for client in clients:
+        try:
+            if client == "curl_cffi":
+                resp = curl_requests.get(
+                    SEARCH_URL,
+                    headers=headers,
+                    timeout=30,
+                    impersonate=CURL_IMPERSONATE,
+                )
+            else:
+                resp = requests.get(SEARCH_URL, headers=headers, timeout=30)
+
+            status_code = getattr(resp, "status_code", 0)
+            text = resp.text
+            if status_code >= 500:
+                errors.append(f"{client}: HTTP {status_code}")
+                continue
+            if status_code >= 400:
+                errors.append(f"{client}: HTTP {status_code}，title={page_title(text)}")
+                continue
+            if looks_like_captcha(text):
+                errors.append(f"{client}: Amazon 回傳 CAPTCHA / Robot Check")
+                continue
+            if not looks_like_search_results(text):
+                errors.append(
+                    f"{client}: 沒有商品卡，title={page_title(text)}，length={len(text)}"
+                )
+                continue
+            return text
+        except Exception as exc:
+            errors.append(f"{client}: {exc}")
+    raise RuntimeError("; ".join(errors) or "所有 HTTP client 都無法讀取 Amazon 搜尋頁")
+
+
 def download_html() -> str:
     last_error = None
     for attempt in range(1, 4):
         try:
-            resp = requests.get(SEARCH_URL, headers=HEADERS, timeout=30)
-            resp.raise_for_status()
-            text = resp.text
-            if re.search(r"Robot Check|captcha|輸入您看到的字元", text, re.I):
-                raise RuntimeError("Amazon 回傳 CAPTCHA / Robot Check，暫時無法解析。")
-            if "s-search-result" not in text and "data-asin=" not in text:
-                raise RuntimeError("Amazon 搜尋頁沒有出現商品卡，可能版型改變或被導向。")
-            return text
+            return request_search_page()
         except Exception as exc:
             last_error = exc
             if attempt < 3:
@@ -162,9 +236,8 @@ def parse_title(block: str) -> str:
 
 
 def parse_url(block: str, asin: str) -> str:
-    m = re.search(r'<a[^>]+href="([^"]*(?:/dp/|/gp/product/)[^"]*)"', block, re.I)
-    if m:
-        return urljoin("https://www.amazon.co.jp", html.unescape(m.group(1)))
+    # Amazon 搜尋結果連結會帶大量短效追蹤參數（qid、ref、dib...），每次抓取都可能不同。
+    # 用 ASIN 組成固定商品頁，避免狀態檔因 URL 雜訊一直變動。
     return f"https://www.amazon.co.jp/dp/{asin}?language=zh"
 
 
@@ -434,12 +507,32 @@ def main() -> int:
             if NOTIFY_PRICE_DROP and old.get("price") and p.get("price") and p["price"] < old["price"]:
                 price_drops.append((p, old["price"]))
 
-    delisted = [old for key, old in state.items() if key not in current]
+    next_state = dict(current)
+    delisted = []
+    for key, old in state.items():
+        if key in current:
+            continue
+        missing = dict(old)
+        missing_count = int(missing.get("missing_count", 0) or 0) + 1
+        missing["missing_count"] = missing_count
+        missing["last_missing_at"] = ts
+        missing["in_stock"] = False
+        next_state[key] = missing
+        if missing_count == MISSING_RUNS_BEFORE_DELIST:
+            delisted.append(missing)
+
     send_notifications(new_items, restocks, price_drops, load_watchlist())
     notify_delisted(delisted)
-    save_state_with_meta(current, meta)
+    save_state_with_meta(next_state, meta)
     write_feed(current, [p["key"] for p in new_items], [p["key"] for p in restocks])
-    print(f"完成：新出現 {len(new_items)}、重新出現 {len(restocks)}、降價 {len(price_drops)}、消失 {len(delisted)}。")
+    pending_missing = sum(
+        1 for key, old in next_state.items()
+        if key not in current and int(old.get("missing_count", 0) or 0) < MISSING_RUNS_BEFORE_DELIST
+    )
+    print(
+        f"完成：新出現 {len(new_items)}、重新出現 {len(restocks)}、"
+        f"降價 {len(price_drops)}、消失 {len(delisted)}、待確認消失 {pending_missing}。"
+    )
     return 0
 
 
