@@ -62,15 +62,6 @@
     "image": "https://m.media-amazon.com/images/I/61CFyvfN1XL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00"
   },
-  "B0DWSRHP7J": {
-    "key": "B0DWSRHP7J",
-    "title": "BEYBLADE X 贝blade X CX-02 启动器 巫师之弧 R4-55LO",
-    "url": "https://www.amazon.co.jp/dp/B0DWSRHP7J?language=zh",
-    "price": null,
-    "in_stock": false,
-    "image": "https://m.media-amazon.com/images/I/61qO6OBNzBL._AC_UL320_.jpg",
-    "first_seen": "2026-06-30T08:49:50.529838+00:00"
-  },
   "B0G1QZR681": {
     "key": "B0G1QZR681",
     "title": "TAKARA TOMY(タカラトミー) BEYBLADE X ベイブレードX UX-17 スターター メテオドラグーン3-70J",
@@ -78,6 +69,15 @@
     "price": null,
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/618F-y-CbbL._AC_UL320_.jpg",
+    "first_seen": "2026-06-30T08:49:50.529838+00:00"
+  },
+  "B0DWSRHP7J": {
+    "key": "B0DWSRHP7J",
+    "title": "BEYBLADE X 贝blade X CX-02 启动器 巫师之弧 R4-55LO",
+    "url": "https://www.amazon.co.jp/dp/B0DWSRHP7J?language=zh",
+    "price": null,
+    "in_stock": false,
+    "image": "https://m.media-amazon.com/images/I/61qO6OBNzBL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00"
   },
   "B0DMSQ57X5": {
@@ -125,15 +125,6 @@
     "image": "https://m.media-amazon.com/images/I/61D91mQOqYL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00"
   },
-  "B0DGFZND26": {
-    "key": "B0DGFZND26",
-    "title": "BEYBLADE X 贝blade X UX-08 启动器 银狼 3-80FB",
-    "url": "https://www.amazon.co.jp/dp/B0DGFZND26?language=zh",
-    "price": null,
-    "in_stock": false,
-    "image": "https://m.media-amazon.com/images/I/61ms17dm4vL._AC_UL320_.jpg",
-    "first_seen": "2026-06-30T08:49:50.529838+00:00"
-  },
   "B0FH4FF4NJ": {
     "key": "B0FH4FF4NJ",
     "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-45 助推器 サムライカリバー6-70M",
@@ -141,6 +132,15 @@
     "price": null,
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61r02QY+sgL._AC_UL320_.jpg",
+    "first_seen": "2026-06-30T08:49:50.529838+00:00"
+  },
+  "B0DGFZND26": {
+    "key": "B0DGFZND26",
+    "title": "BEYBLADE X 贝blade X UX-08 启动器 银狼 3-80FB",
+    "url": "https://www.amazon.co.jp/dp/B0DGFZND26?language=zh",
+    "price": null,
+    "in_stock": false,
+    "image": "https://m.media-amazon.com/images/I/61ms17dm4vL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00"
   },
   "B0D91K2WMS": {
@@ -188,6 +188,15 @@
     "image": "https://m.media-amazon.com/images/I/61j+1vOw4iL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T11:49:07.625077+00:00"
   },
+  "B0DSKDBFTD": {
+    "key": "B0DSKDBFTD",
+    "title": "BEYBLADE X 霸旋陀螺X BX-39 随机补充包 庇护龙选择",
+    "url": "https://www.amazon.co.jp/dp/B0DSKDBFTD?language=zh",
+    "price": null,
+    "in_stock": false,
+    "image": "https://m.media-amazon.com/images/I/61B0Tm9q6FL._AC_UL320_.jpg",
+    "first_seen": "2026-06-30T16:33:20.448419+00:00"
+  },
   "B0H4PM8QCF": {
     "key": "B0H4PM8QCF",
     "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-50 随机补充装Vol.11",
@@ -213,7 +222,9 @@
     "price": null,
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61poLro7mLL._AC_UL320_.jpg",
-    "first_seen": "2026-06-30T14:16:28.392065+00:00"
+    "first_seen": "2026-06-30T14:16:28.392065+00:00",
+    "missing_count": 1,
+    "last_missing_at": "2026-06-30T16:33:20.448419+00:00"
   },
   "B0FLCFNPF2": {
     "key": "B0FLCFNPF2",
@@ -223,8 +234,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/71DPaTFm20L._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 1,
-    "last_missing_at": "2026-06-30T14:16:28.392065+00:00"
+    "missing_count": 2,
+    "last_missing_at": "2026-06-30T16:33:20.448419+00:00"
   },
   "B0DWSB1VDQ": {
     "key": "B0DWSB1VDQ",
@@ -234,8 +245,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61mZ7W9rbsL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T11:49:07.625077+00:00",
-    "missing_count": 1,
-    "last_missing_at": "2026-06-30T14:16:28.392065+00:00"
+    "missing_count": 2,
+    "last_missing_at": "2026-06-30T16:33:20.448419+00:00"
   },
   "B0C52C4L3T": {
     "key": "B0C52C4L3T",
@@ -245,8 +256,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61aJExH96+L._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 2,
-    "last_missing_at": "2026-06-30T14:16:28.392065+00:00"
+    "missing_count": 3,
+    "last_missing_at": "2026-06-30T16:33:20.448419+00:00"
   },
   "B0FV74J4H5": {
     "key": "B0FV74J4H5",
@@ -256,8 +267,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/71myiiLXiRL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 2,
-    "last_missing_at": "2026-06-30T14:16:28.392065+00:00"
+    "missing_count": 3,
+    "last_missing_at": "2026-06-30T16:33:20.448419+00:00"
   },
   "__meta__": {
     "consecutive_failures": 0
