@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T20:56:21.919440+00:00",
+  "updated_at": "2026-07-04T21:58:11.398993+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -158,6 +158,17 @@
       "status": "normal"
     },
     {
+      "key": "B0FQ9ZSLPD",
+      "title": "TAKARA TOMY(タカラトミー) BEYBLADE X 战斗陀螺X BX-47 拉线发射器L 红色Ver.",
+      "url": "https://www.amazon.co.jp/dp/B0FQ9ZSLPD?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/51tLLvv212L._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0FQ9ZSLPD",
+      "status": "normal"
+    },
+    {
       "key": "B0GMF1DTFB",
       "title": "TAKARA TOMY(TAKARA TOMY) CX-13 星际巴哈姆特布里茨BK1-50I",
       "url": "https://www.amazon.co.jp/dp/B0GMF1DTFB?language=zh",
@@ -177,17 +188,6 @@
       "image": "https://m.media-amazon.com/images/I/61j+1vOw4iL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T11:49:07.625077+00:00",
       "id": "B0CZX8ZMGG",
-      "status": "normal"
-    },
-    {
-      "key": "B0H4PM8QCF",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-50 随机补充装Vol.11",
-      "url": "https://www.amazon.co.jp/dp/B0H4PM8QCF?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61cP5emKf-L._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T11:49:07.625077+00:00",
-      "id": "B0H4PM8QCF",
       "status": "normal"
     },
     {
