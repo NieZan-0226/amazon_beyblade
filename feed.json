@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T12:50:34.867315+00:00",
+  "updated_at": "2026-07-05T14:42:22.399619+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -15,17 +15,6 @@
       "status": "normal"
     },
     {
-      "key": "B0FCLJ67NK",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-07 入门 Pigasus Blast ATr",
-      "url": "https://www.amazon.co.jp/dp/B0FCLJ67NK?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61+3io3McIL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0FCLJ67NK",
-      "status": "normal"
-    },
-    {
       "key": "B0H1B5QDJK",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-18 随机助推器 Brachio Wip 精选",
       "url": "https://www.amazon.co.jp/dp/B0H1B5QDJK?language=zh",
@@ -34,6 +23,17 @@
       "image": "https://m.media-amazon.com/images/I/713NbKuawIL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0H1B5QDJK",
+      "status": "normal"
+    },
+    {
+      "key": "B0FCLJ67NK",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-07 入门 Pigasus Blast ATr",
+      "url": "https://www.amazon.co.jp/dp/B0FCLJ67NK?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61+3io3McIL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0FCLJ67NK",
       "status": "normal"
     },
     {
@@ -70,14 +70,14 @@
       "status": "normal"
     },
     {
-      "key": "B0DMSQ57X5",
-      "title": "BEYBLADE X 霸旋陀螺 X UX-11 入门套装 冲击德雷克9-60LR",
-      "url": "https://www.amazon.co.jp/dp/B0DMSQ57X5?language=zh",
+      "key": "B0F47G3QJT",
+      "title": "TAKARA TOMY BEYBLADE X 霸旋陀螺 X UX-14 入门套装 天蝎座长矛 0-70Z",
+      "url": "https://www.amazon.co.jp/dp/B0F47G3QJT?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61kINR1gxbL._AC_UL320_.jpg",
+      "image": "https://m.media-amazon.com/images/I/712keT+tMML._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0DMSQ57X5",
+      "id": "B0F47G3QJT",
       "status": "normal"
     },
     {
@@ -89,17 +89,6 @@
       "image": "https://m.media-amazon.com/images/I/61qO6OBNzBL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0DWSRHP7J",
-      "status": "normal"
-    },
-    {
-      "key": "B0F47G3QJT",
-      "title": "TAKARA TOMY BEYBLADE X 霸旋陀螺 X UX-14 入门套装 天蝎座长矛 0-70Z",
-      "url": "https://www.amazon.co.jp/dp/B0F47G3QJT?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/712keT+tMML._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0F47G3QJT",
       "status": "normal"
     },
     {
@@ -191,6 +180,28 @@
       "status": "normal"
     },
     {
+      "key": "B0H4PK66SN",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-00 入门 Storm Pigasis 3-70RA",
+      "url": "https://www.amazon.co.jp/dp/B0H4PK66SN?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61CFyvfN1XL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0H4PK66SN",
+      "status": "normal"
+    },
+    {
+      "key": "B0GMFHY6ZV",
+      "title": "TAKARA TOMYTAKARA TOMY(TAKARA TOMY) CX-15 增压器拉格纳雷吉FE4-55Y",
+      "url": "https://www.amazon.co.jp/dp/B0GMFHY6ZV?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/71HNhQey5TL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0GMFHY6ZV",
+      "status": "normal"
+    },
+    {
       "key": "B0CZX8ZMGG",
       "title": "BEYBLADE X 霸旋陀螺X BX-31 随机推进器Vol.3",
       "url": "https://www.amazon.co.jp/dp/B0CZX8ZMGG?language=zh",
@@ -221,17 +232,6 @@
       "image": "https://m.media-amazon.com/images/I/41I+55DN8yL._AC_UL320_.jpg",
       "first_seen": "2026-07-01T00:21:36.335196+00:00",
       "id": "B0C533Q31X",
-      "status": "normal"
-    },
-    {
-      "key": "B0H4PPV8MR",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-20 入门 GLOLIVELE LF",
-      "url": "https://www.amazon.co.jp/dp/B0H4PPV8MR?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61UYOrroRUL._AC_UL320_.jpg",
-      "first_seen": "2026-07-01T08:56:03.117374+00:00",
-      "id": "B0H4PPV8MR",
       "status": "normal"
     },
     {
