@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-07-08T14:55:36.700399+00:00",
+  "updated_at": "2026-07-08T16:38:07.002047+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
+    {
+      "key": "B0DJQQDFPS",
+      "title": "BEYBLADE X ベイブレードX UX-09 启动器 武士剑2-70L",
+      "url": "https://www.amazon.co.jp/dp/B0DJQQDFPS?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61jv21uYbaL._AC_UL320_.jpg",
+      "first_seen": "2026-07-08T16:38:06.311105+00:00",
+      "id": "B0DJQQDFPS",
+      "status": "new"
+    },
     {
       "key": "B0GS4M7T5B",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-49 入门 Dorant Strike 4-50FF",
@@ -122,17 +133,6 @@
       "image": "https://m.media-amazon.com/images/I/61ms17dm4vL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0DGFZND26",
-      "status": "normal"
-    },
-    {
-      "key": "B0DMSQ57X5",
-      "title": "BEYBLADE X 霸旋陀螺 X UX-11 入门套装 冲击德雷克9-60LR",
-      "url": "https://www.amazon.co.jp/dp/B0DMSQ57X5?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61kINR1gxbL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0DMSQ57X5",
       "status": "normal"
     },
     {
