@@ -1,19 +1,8 @@
 {
-  "updated_at": "2026-07-08T22:17:01.764336+00:00",
+  "updated_at": "2026-07-08T23:32:14.806463+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
-    {
-      "key": "B0FH4FD9NB",
-      "title": "TAKARA TOMY BEYBLADE X 战斗陀螺X UX-15 鲨鱼鳞片套牌组合",
-      "url": "https://www.amazon.co.jp/dp/B0FH4FD9NB?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61UJuDqe8KL._AC_UL320_.jpg",
-      "first_seen": "2026-07-08T22:17:01.180516+00:00",
-      "id": "B0FH4FD9NB",
-      "status": "new"
-    },
     {
       "key": "B0GS4M7T5B",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-49 入门 Dorant Strike 4-50FF",
@@ -265,6 +254,17 @@
       "image": "https://m.media-amazon.com/images/I/61jv21uYbaL._AC_UL320_.jpg",
       "first_seen": "2026-07-08T16:38:06.311105+00:00",
       "id": "B0DJQQDFPS",
+      "status": "normal"
+    },
+    {
+      "key": "B0FH4FD9NB",
+      "title": "TAKARA TOMY BEYBLADE X 战斗陀螺X UX-15 鲨鱼鳞片套牌组合",
+      "url": "https://www.amazon.co.jp/dp/B0FH4FD9NB?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61UJuDqe8KL._AC_UL320_.jpg",
+      "first_seen": "2026-07-08T22:17:01.180516+00:00",
+      "id": "B0FH4FD9NB",
       "status": "normal"
     }
   ]
