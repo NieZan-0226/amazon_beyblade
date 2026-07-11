@@ -1,19 +1,8 @@
 {
-  "updated_at": "2026-07-11T21:06:17.790288+00:00",
+  "updated_at": "2026-07-11T22:08:23.223280+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
-    {
-      "key": "B0H1B5QDJK",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-18 随机助推器 Brachio Wip 精选",
-      "url": "https://www.amazon.co.jp/dp/B0H1B5QDJK?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/713NbKuawIL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0H1B5QDJK",
-      "status": "normal"
-    },
     {
       "key": "B0GS4M7T5B",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-49 入门 Dorant Strike 4-50FF",
@@ -23,6 +12,17 @@
       "image": "https://m.media-amazon.com/images/I/61Xqy93GdAL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0GS4M7T5B",
+      "status": "normal"
+    },
+    {
+      "key": "B0H1B5QDJK",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-18 随机助推器 Brachio Wip 精选",
+      "url": "https://www.amazon.co.jp/dp/B0H1B5QDJK?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/713NbKuawIL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0H1B5QDJK",
       "status": "normal"
     },
     {
@@ -48,17 +48,6 @@
       "status": "normal"
     },
     {
-      "key": "B0H4PK66SN",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-00 入门 Storm Pigasis 3-70RA",
-      "url": "https://www.amazon.co.jp/dp/B0H4PK66SN?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61CFyvfN1XL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0H4PK66SN",
-      "status": "normal"
-    },
-    {
       "key": "B0GS4F6977",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-19 星光弹珠H",
       "url": "https://www.amazon.co.jp/dp/B0GS4F6977?language=zh",
@@ -70,6 +59,17 @@
       "status": "normal"
     },
     {
+      "key": "B0H4PK66SN",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-00 入门 Storm Pigasis 3-70RA",
+      "url": "https://www.amazon.co.jp/dp/B0H4PK66SN?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61CFyvfN1XL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0H4PK66SN",
+      "status": "normal"
+    },
+    {
       "key": "B0GMFHY6ZV",
       "title": "TAKARA TOMYTAKARA TOMY(TAKARA TOMY) CX-15 增压器拉格纳雷吉FE4-55Y",
       "url": "https://www.amazon.co.jp/dp/B0GMFHY6ZV?language=zh",
@@ -78,17 +78,6 @@
       "image": "https://m.media-amazon.com/images/I/71HNhQey5TL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0GMFHY6ZV",
-      "status": "normal"
-    },
-    {
-      "key": "B0DGFZND26",
-      "title": "BEYBLADE X 贝blade X UX-08 启动器 银狼 3-80FB",
-      "url": "https://www.amazon.co.jp/dp/B0DGFZND26?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61ms17dm4vL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0DGFZND26",
       "status": "normal"
     },
     {
@@ -114,6 +103,28 @@
       "status": "normal"
     },
     {
+      "key": "B0FH4FF4NJ",
+      "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-45 助推器 サムライカリバー6-70M",
+      "url": "https://www.amazon.co.jp/dp/B0FH4FF4NJ?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61r02QY+sgL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0FH4FF4NJ",
+      "status": "normal"
+    },
+    {
+      "key": "B0GG8QM8YS",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-48 随机补充装Vol.9",
+      "url": "https://www.amazon.co.jp/dp/B0GG8QM8YS?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61D91mQOqYL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0GG8QM8YS",
+      "status": "normal"
+    },
+    {
       "key": "B0D6MZB1VF",
       "title": "BEYBLADE X 霸旋陀螺X BX-34 星机 钴龙2-60C",
       "url": "https://www.amazon.co.jp/dp/B0D6MZB1VF?language=zh",
@@ -125,14 +136,14 @@
       "status": "normal"
     },
     {
-      "key": "B0FQ9ZSLPD",
-      "title": "TAKARA TOMY(タカラトミー) BEYBLADE X 战斗陀螺X BX-47 拉线发射器L 红色Ver.",
-      "url": "https://www.amazon.co.jp/dp/B0FQ9ZSLPD?language=zh",
+      "key": "B0DGFZND26",
+      "title": "BEYBLADE X 贝blade X UX-08 启动器 银狼 3-80FB",
+      "url": "https://www.amazon.co.jp/dp/B0DGFZND26?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/51tLLvv212L._AC_UL320_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61ms17dm4vL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0FQ9ZSLPD",
+      "id": "B0DGFZND26",
       "status": "normal"
     },
     {
@@ -147,14 +158,25 @@
       "status": "normal"
     },
     {
-      "key": "B0FH4FF4NJ",
-      "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-45 助推器 サムライカリバー6-70M",
-      "url": "https://www.amazon.co.jp/dp/B0FH4FF4NJ?language=zh",
+      "key": "B0FQ9ZSLPD",
+      "title": "TAKARA TOMY(タカラトミー) BEYBLADE X 战斗陀螺X BX-47 拉线发射器L 红色Ver.",
+      "url": "https://www.amazon.co.jp/dp/B0FQ9ZSLPD?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61r02QY+sgL._AC_UL320_.jpg",
+      "image": "https://m.media-amazon.com/images/I/51tLLvv212L._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0FH4FF4NJ",
+      "id": "B0FQ9ZSLPD",
+      "status": "normal"
+    },
+    {
+      "key": "B0GMF1DTFB",
+      "title": "TAKARA TOMY(TAKARA TOMY) CX-13 星际巴哈姆特布里茨BK1-50I",
+      "url": "https://www.amazon.co.jp/dp/B0GMF1DTFB?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61gwfg1zFUL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0GMF1DTFB",
       "status": "normal"
     },
     {
@@ -180,17 +202,6 @@
       "status": "normal"
     },
     {
-      "key": "B0DSKDBFTD",
-      "title": "BEYBLADE X 霸旋陀螺X BX-39 随机补充包 庇护龙选择",
-      "url": "https://www.amazon.co.jp/dp/B0DSKDBFTD?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61B0Tm9q6FL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T16:33:20.448419+00:00",
-      "id": "B0DSKDBFTD",
-      "status": "normal"
-    },
-    {
       "key": "B0C533Q31X",
       "title": "タカラトミー(TAKARA TOMY) BEYBLADE X ベイブレードX BX-11 发射器手柄",
       "url": "https://www.amazon.co.jp/dp/B0C533Q31X?language=zh",
@@ -202,14 +213,14 @@
       "status": "normal"
     },
     {
-      "key": "B0DWS3ZFF7",
-      "title": "BEYBLADE X ベイブレードX BX-43 ギアケース ホワイトVer.",
-      "url": "https://www.amazon.co.jp/dp/B0DWS3ZFF7?language=zh",
+      "key": "B0H4PPV8MR",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-20 入门 GLOLIVELE LF",
+      "url": "https://www.amazon.co.jp/dp/B0H4PPV8MR?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/511H5QhxO+L._AC_UL320_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61UYOrroRUL._AC_UL320_.jpg",
       "first_seen": "2026-07-01T08:56:03.117374+00:00",
-      "id": "B0DWS3ZFF7",
+      "id": "B0H4PPV8MR",
       "status": "normal"
     },
     {
@@ -243,17 +254,6 @@
       "image": "https://m.media-amazon.com/images/I/61kd9QyerdL._AC_UL320_.jpg",
       "first_seen": "2026-07-03T11:16:52.773691+00:00",
       "id": "B0GWKWBXH3",
-      "status": "normal"
-    },
-    {
-      "key": "B0CMZQ9157",
-      "title": "BEYBLADE X 霸旋陀螺X BX-25 齿轮包",
-      "url": "https://www.amazon.co.jp/dp/B0CMZQ9157?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/619ruy98JUL._AC_UL320_.jpg",
-      "first_seen": "2026-07-05T07:24:23.211054+00:00",
-      "id": "B0CMZQ9157",
       "status": "normal"
     },
     {
