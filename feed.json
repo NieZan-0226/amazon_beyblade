@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T23:38:42.448615+00:00",
+  "updated_at": "2026-07-11T01:08:30.466112+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -70,17 +70,6 @@
       "status": "normal"
     },
     {
-      "key": "B0GG8QM8YS",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-48 随机补充装Vol.9",
-      "url": "https://www.amazon.co.jp/dp/B0GG8QM8YS?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61D91mQOqYL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GG8QM8YS",
-      "status": "normal"
-    },
-    {
       "key": "B0DWSRHP7J",
       "title": "BEYBLADE X 贝blade X CX-02 启动器 巫师之弧 R4-55LO",
       "url": "https://www.amazon.co.jp/dp/B0DWSRHP7J?language=zh",
@@ -111,6 +100,17 @@
       "image": "https://m.media-amazon.com/images/I/61r02QY+sgL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0FH4FF4NJ",
+      "status": "normal"
+    },
+    {
+      "key": "B0GG8QM8YS",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-48 随机补充装Vol.9",
+      "url": "https://www.amazon.co.jp/dp/B0GG8QM8YS?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61D91mQOqYL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0GG8QM8YS",
       "status": "normal"
     },
     {
