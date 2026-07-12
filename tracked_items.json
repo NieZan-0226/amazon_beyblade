@@ -480,6 +480,8 @@
     "last_missing_at": "2026-07-12T11:31:54.927680+00:00"
   },
   "__meta__": {
-    "consecutive_failures": 0
+    "consecutive_failures": 1,
+    "last_failure_at": "2026-07-12T12:29:59.426790+00:00",
+    "last_error": "curl_cffi: 沒有商品卡，title=unknown，length=2714; requests: 沒有商品卡，title=unknown，length=2714"
   }
 }
