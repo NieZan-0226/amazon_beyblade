@@ -480,6 +480,8 @@
     "last_missing_at": "2026-07-12T20:22:22.943784+00:00"
   },
   "__meta__": {
-    "consecutive_failures": 0
+    "consecutive_failures": 1,
+    "last_failure_at": "2026-07-12T21:22:56.466598+00:00",
+    "last_error": "curl_cffi: HTTP 503; requests: HTTP 503"
   }
 }
