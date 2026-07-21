@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T09:39:55.671647+00:00",
+  "updated_at": "2026-07-21T11:29:24.797642+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -257,14 +257,14 @@
       "status": "normal"
     },
     {
-      "key": "B0F89Y6XQ1",
-      "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 爆旋陀螺X BX-44 补充包 三角龙压制M-85BS",
-      "url": "https://www.amazon.co.jp/dp/B0F89Y6XQ1?language=zh",
+      "key": "B0H861Y9Y3",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-21 健康装备甲板套装",
+      "url": "https://www.amazon.co.jp/dp/B0H861Y9Y3?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61uqJHueE4L._AC_UL320_.jpg",
-      "first_seen": "2026-07-14T09:24:53.569810+00:00",
-      "id": "B0F89Y6XQ1",
+      "image": "https://m.media-amazon.com/images/I/712PbSkR+lL._AC_UL320_.jpg",
+      "first_seen": "2026-07-14T18:16:25.218236+00:00",
+      "id": "B0H861Y9Y3",
       "status": "normal"
     }
   ]
