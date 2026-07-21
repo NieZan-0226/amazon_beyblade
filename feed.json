@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T22:37:56.752202+00:00",
+  "updated_at": "2026-07-21T23:41:06.123478+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -92,17 +92,6 @@
       "status": "normal"
     },
     {
-      "key": "B0D6MZB1VF",
-      "title": "BEYBLADE X 霸旋陀螺X BX-34 星机 钴龙2-60C",
-      "url": "https://www.amazon.co.jp/dp/B0D6MZB1VF?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61LOQ-xHnQL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0D6MZB1VF",
-      "status": "normal"
-    },
-    {
       "key": "B0GS4F6977",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-19 星光弹珠H",
       "url": "https://www.amazon.co.jp/dp/B0GS4F6977?language=zh",
@@ -111,6 +100,17 @@
       "image": "https://m.media-amazon.com/images/I/61khMPSZLZL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0GS4F6977",
+      "status": "normal"
+    },
+    {
+      "key": "B0D6MZB1VF",
+      "title": "BEYBLADE X 霸旋陀螺X BX-34 星机 钴龙2-60C",
+      "url": "https://www.amazon.co.jp/dp/B0D6MZB1VF?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61LOQ-xHnQL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0D6MZB1VF",
       "status": "normal"
     },
     {
@@ -191,6 +191,17 @@
       "status": "normal"
     },
     {
+      "key": "B0DMSQ57X5",
+      "title": "BEYBLADE X 霸旋陀螺 X UX-11 入门套装 冲击德雷克9-60LR",
+      "url": "https://www.amazon.co.jp/dp/B0DMSQ57X5?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61kINR1gxbL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0DMSQ57X5",
+      "status": "normal"
+    },
+    {
       "key": "B0H4PM8QCF",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-50 随机补充装Vol.11",
       "url": "https://www.amazon.co.jp/dp/B0H4PM8QCF?language=zh",
@@ -254,17 +265,6 @@
       "image": "https://m.media-amazon.com/images/I/51gwI+uzFUL._AC_UL320_.jpg",
       "first_seen": "2026-07-07T14:30:49.477833+00:00",
       "id": "B0H19XNXW2",
-      "status": "normal"
-    },
-    {
-      "key": "B0H861Y9Y3",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-21 健康装备甲板套装",
-      "url": "https://www.amazon.co.jp/dp/B0H861Y9Y3?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/712PbSkR+lL._AC_UL320_.jpg",
-      "first_seen": "2026-07-14T18:16:25.218236+00:00",
-      "id": "B0H861Y9Y3",
       "status": "normal"
     }
   ]
