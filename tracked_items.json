@@ -62,15 +62,6 @@
     "image": "https://m.media-amazon.com/images/I/61LOQ-xHnQL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00"
   },
-  "B0GS4F6977": {
-    "key": "B0GS4F6977",
-    "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-19 星光弹珠H",
-    "url": "https://www.amazon.co.jp/dp/B0GS4F6977?language=zh",
-    "price": null,
-    "in_stock": false,
-    "image": "https://m.media-amazon.com/images/I/61khMPSZLZL._AC_UL320_.jpg",
-    "first_seen": "2026-06-30T08:49:50.529838+00:00"
-  },
   "B0DGFZND26": {
     "key": "B0DGFZND26",
     "title": "BEYBLADE X 贝blade X UX-08 启动器 银狼 3-80FB",
@@ -78,6 +69,15 @@
     "price": null,
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61ms17dm4vL._AC_UL320_.jpg",
+    "first_seen": "2026-06-30T08:49:50.529838+00:00"
+  },
+  "B0GMF1DTFB": {
+    "key": "B0GMF1DTFB",
+    "title": "TAKARA TOMY(TAKARA TOMY) CX-13 星际巴哈姆特布里茨BK1-50I",
+    "url": "https://www.amazon.co.jp/dp/B0GMF1DTFB?language=zh",
+    "price": null,
+    "in_stock": false,
+    "image": "https://m.media-amazon.com/images/I/61gwfg1zFUL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00"
   },
   "B0DWSB1VDQ": {
@@ -89,23 +89,23 @@
     "image": "https://m.media-amazon.com/images/I/61mZ7W9rbsL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T11:49:07.625077+00:00"
   },
-  "B0GMF1DTFB": {
-    "key": "B0GMF1DTFB",
-    "title": "TAKARA TOMY(TAKARA TOMY) CX-13 星际巴哈姆特布里茨BK1-50I",
-    "url": "https://www.amazon.co.jp/dp/B0GMF1DTFB?language=zh",
+  "B0GMF7QZQB": {
+    "key": "B0GMF7QZQB",
+    "title": "TAKARA TOMY CX-16 起动仪表套装C",
+    "url": "https://www.amazon.co.jp/dp/B0GMF7QZQB?language=zh",
     "price": null,
     "in_stock": false,
-    "image": "https://m.media-amazon.com/images/I/61gwfg1zFUL._AC_UL320_.jpg",
-    "first_seen": "2026-06-30T08:49:50.529838+00:00"
+    "image": "https://m.media-amazon.com/images/I/61poLro7mLL._AC_UL320_.jpg",
+    "first_seen": "2026-06-30T14:16:28.392065+00:00"
   },
-  "B0C533Q31X": {
-    "key": "B0C533Q31X",
-    "title": "タカラトミー(TAKARA TOMY) BEYBLADE X ベイブレードX BX-11 发射器手柄",
-    "url": "https://www.amazon.co.jp/dp/B0C533Q31X?language=zh",
+  "B0CMZSRJ3Q": {
+    "key": "B0CMZSRJ3Q",
+    "title": "BEYBLADE X 霸旋陀螺X BX-23 入门 凤凰翼 9-60GF 金属",
+    "url": "https://www.amazon.co.jp/dp/B0CMZSRJ3Q?language=zh",
     "price": null,
     "in_stock": false,
-    "image": "https://m.media-amazon.com/images/I/41I+55DN8yL._AC_UL320_.jpg",
-    "first_seen": "2026-07-01T00:21:36.335196+00:00"
+    "image": "https://m.media-amazon.com/images/I/715NtHVPy-L._AC_UL320_.jpg",
+    "first_seen": "2026-07-07T22:10:29.662831+00:00"
   },
   "B0DMSQ57X5": {
     "key": "B0DMSQ57X5",
@@ -125,6 +125,24 @@
     "image": "https://m.media-amazon.com/images/I/616LLncUykL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00"
   },
+  "B0GS4F6977": {
+    "key": "B0GS4F6977",
+    "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-19 星光弹珠H",
+    "url": "https://www.amazon.co.jp/dp/B0GS4F6977?language=zh",
+    "price": null,
+    "in_stock": false,
+    "image": "https://m.media-amazon.com/images/I/61khMPSZLZL._AC_UL320_.jpg",
+    "first_seen": "2026-06-30T08:49:50.529838+00:00"
+  },
+  "B0C533Q31X": {
+    "key": "B0C533Q31X",
+    "title": "タカラトミー(TAKARA TOMY) BEYBLADE X ベイブレードX BX-11 发射器手柄",
+    "url": "https://www.amazon.co.jp/dp/B0C533Q31X?language=zh",
+    "price": null,
+    "in_stock": false,
+    "image": "https://m.media-amazon.com/images/I/41I+55DN8yL._AC_UL320_.jpg",
+    "first_seen": "2026-07-01T00:21:36.335196+00:00"
+  },
   "B0DWS96T4F": {
     "key": "B0DWS96T4F",
     "title": "BEYBLADE X 贝blade X BX-41 橡胶定制握把 金属色Ver.",
@@ -133,15 +151,6 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/51nupFqvG0L._AC_UL320_.jpg",
     "first_seen": "2026-07-08T08:45:14.858645+00:00"
-  },
-  "B0GMFHY6ZV": {
-    "key": "B0GMFHY6ZV",
-    "title": "TAKARA TOMYTAKARA TOMY(TAKARA TOMY) CX-15 增压器拉格纳雷吉FE4-55Y",
-    "url": "https://www.amazon.co.jp/dp/B0GMFHY6ZV?language=zh",
-    "price": null,
-    "in_stock": false,
-    "image": "https://m.media-amazon.com/images/I/71HNhQey5TL._AC_UL320_.jpg",
-    "first_seen": "2026-06-30T08:49:50.529838+00:00"
   },
   "B0H19XNXW2": {
     "key": "B0H19XNXW2",
@@ -161,15 +170,6 @@
     "image": "https://m.media-amazon.com/images/I/61D91mQOqYL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00"
   },
-  "B0C52C4L3T": {
-    "key": "B0C52C4L3T",
-    "title": "宝汤米(TAKARA TOMY) BEYBLADE X 贝叶刃X BX-02 启动器 地狱尺寸 4-60T",
-    "url": "https://www.amazon.co.jp/dp/B0C52C4L3T?language=zh",
-    "price": null,
-    "in_stock": false,
-    "image": "https://m.media-amazon.com/images/I/61aJExH96+L._AC_UL320_.jpg",
-    "first_seen": "2026-06-30T08:49:50.529838+00:00"
-  },
   "B0FV74J4H5": {
     "key": "B0FV74J4H5",
     "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-10 助推器 狼狩猎F0-60DB",
@@ -177,6 +177,15 @@
     "price": null,
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/71myiiLXiRL._AC_UL320_.jpg",
+    "first_seen": "2026-06-30T08:49:50.529838+00:00"
+  },
+  "B0C52C4L3T": {
+    "key": "B0C52C4L3T",
+    "title": "宝汤米(TAKARA TOMY) BEYBLADE X 贝叶刃X BX-02 启动器 地狱尺寸 4-60T",
+    "url": "https://www.amazon.co.jp/dp/B0C52C4L3T?language=zh",
+    "price": null,
+    "in_stock": false,
+    "image": "https://m.media-amazon.com/images/I/61aJExH96+L._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00"
   },
   "B0DWSRHP7J": {
@@ -187,15 +196,6 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61qO6OBNzBL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00"
-  },
-  "B0GMF7QZQB": {
-    "key": "B0GMF7QZQB",
-    "title": "TAKARA TOMY CX-16 起动仪表套装C",
-    "url": "https://www.amazon.co.jp/dp/B0GMF7QZQB?language=zh",
-    "price": null,
-    "in_stock": false,
-    "image": "https://m.media-amazon.com/images/I/61poLro7mLL._AC_UL320_.jpg",
-    "first_seen": "2026-06-30T14:16:28.392065+00:00"
   },
   "B0GMDYS21K": {
     "key": "B0GMDYS21K",
@@ -215,6 +215,17 @@
     "image": "https://m.media-amazon.com/images/I/712keT+tMML._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00"
   },
+  "B0GMFHY6ZV": {
+    "key": "B0GMFHY6ZV",
+    "title": "TAKARA TOMYTAKARA TOMY(TAKARA TOMY) CX-15 增压器拉格纳雷吉FE4-55Y",
+    "url": "https://www.amazon.co.jp/dp/B0GMFHY6ZV?language=zh",
+    "price": null,
+    "in_stock": false,
+    "image": "https://m.media-amazon.com/images/I/71HNhQey5TL._AC_UL320_.jpg",
+    "first_seen": "2026-06-30T08:49:50.529838+00:00",
+    "missing_count": 1,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
+  },
   "B0FQ9ZSLPD": {
     "key": "B0FQ9ZSLPD",
     "title": "TAKARA TOMY(タカラトミー) BEYBLADE X 战斗陀螺X BX-47 拉线发射器L 红色Ver.",
@@ -223,8 +234,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/51tLLvv212L._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 1,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 2,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0CZX8ZMGG": {
     "key": "B0CZX8ZMGG",
@@ -234,8 +245,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61j+1vOw4iL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T11:49:07.625077+00:00",
-    "missing_count": 1,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 2,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0FH4FF4NJ": {
     "key": "B0FH4FF4NJ",
@@ -245,8 +256,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61r02QY+sgL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 2,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 3,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0H861Y9Y3": {
     "key": "B0H861Y9Y3",
@@ -256,8 +267,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/712PbSkR+lL._AC_UL320_.jpg",
     "first_seen": "2026-07-14T18:16:25.218236+00:00",
-    "missing_count": 5,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 6,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0F89Y6XQ1": {
     "key": "B0F89Y6XQ1",
@@ -267,8 +278,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61uqJHueE4L._AC_UL320_.jpg",
     "first_seen": "2026-07-14T09:24:53.569810+00:00",
-    "missing_count": 13,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 14,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0G1QZR681": {
     "key": "B0G1QZR681",
@@ -278,8 +289,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/618F-y-CbbL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 15,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 16,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0DWS3ZFF7": {
     "key": "B0DWS3ZFF7",
@@ -289,8 +300,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/511H5QhxO+L._AC_UL320_.jpg",
     "first_seen": "2026-07-01T08:56:03.117374+00:00",
-    "missing_count": 16,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 17,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0C52SMHWN": {
     "key": "B0C52SMHWN",
@@ -300,8 +311,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/51BbPk+4XdL._AC_UL320_.jpg",
     "first_seen": "2026-07-20T07:57:35.372456+00:00",
-    "missing_count": 24,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 25,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0H4PPV8MR": {
     "key": "B0H4PPV8MR",
@@ -311,8 +322,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61UYOrroRUL._AC_UL320_.jpg",
     "first_seen": "2026-07-01T08:56:03.117374+00:00",
-    "missing_count": 36,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 37,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0G1R7LCTV": {
     "key": "B0G1R7LCTV",
@@ -322,19 +333,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61AdOAWdTgL._AC_UL320_.jpg",
     "first_seen": "2026-07-02T18:57:22.225570+00:00",
-    "missing_count": 40,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
-  },
-  "B0CMZSRJ3Q": {
-    "key": "B0CMZSRJ3Q",
-    "title": "BEYBLADE X 霸旋陀螺X BX-23 入门 凤凰翼 9-60GF 金属",
-    "url": "https://www.amazon.co.jp/dp/B0CMZSRJ3Q?language=zh",
-    "price": null,
-    "in_stock": false,
-    "image": "https://m.media-amazon.com/images/I/715NtHVPy-L._AC_UL320_.jpg",
-    "first_seen": "2026-07-07T22:10:29.662831+00:00",
-    "missing_count": 55,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 41,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0DJQQDFPS": {
     "key": "B0DJQQDFPS",
@@ -344,8 +344,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61jv21uYbaL._AC_UL320_.jpg",
     "first_seen": "2026-07-08T16:38:06.311105+00:00",
-    "missing_count": 65,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 66,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0H85ZRYJX": {
     "key": "B0H85ZRYJX",
@@ -355,8 +355,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/51ZG9ZnpxeL._AC_UL320_.jpg",
     "first_seen": "2026-07-14T18:16:25.218236+00:00",
-    "missing_count": 75,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 76,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B001DR87UE": {
     "key": "B001DR87UE",
@@ -366,8 +366,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61qzUglMgEL._AC_UL320_.jpg",
     "first_seen": "2026-07-14T09:24:53.569810+00:00",
-    "missing_count": 76,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 77,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0DWS1N4ZX": {
     "key": "B0DWS1N4ZX",
@@ -377,8 +377,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61RNnRJffxL._AC_UL320_.jpg",
     "first_seen": "2026-07-01T19:17:42.807358+00:00",
-    "missing_count": 82,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 83,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0D91K2WMS": {
     "key": "B0D91K2WMS",
@@ -388,8 +388,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61Hddyysl2L._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 83,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 84,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0CV7HF3W6": {
     "key": "B0CV7HF3W6",
@@ -399,8 +399,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61-+DlVImfL._AC_UL320_.jpg",
     "first_seen": "2026-07-01T08:56:03.117374+00:00",
-    "missing_count": 84,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 85,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0CKQT37TB": {
     "key": "B0CKQT37TB",
@@ -410,8 +410,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61rRlWgjv7L._AC_UL320_.jpg",
     "first_seen": "2026-07-16T04:07:47.852450+00:00",
-    "missing_count": 84,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 85,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0DSKDBFTD": {
     "key": "B0DSKDBFTD",
@@ -421,8 +421,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61B0Tm9q6FL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T16:33:20.448419+00:00",
-    "missing_count": 85,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 86,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0F12RK1F4": {
     "key": "B0F12RK1F4",
@@ -432,8 +432,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/611c0mktBHL._AC_UL320_.jpg",
     "first_seen": "2026-07-02T11:32:55.945060+00:00",
-    "missing_count": 105,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 106,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0CMZQ9157": {
     "key": "B0CMZQ9157",
@@ -443,8 +443,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/619ruy98JUL._AC_UL320_.jpg",
     "first_seen": "2026-07-05T07:24:23.211054+00:00",
-    "missing_count": 113,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 114,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0CHR9SD9Z": {
     "key": "B0CHR9SD9Z",
@@ -454,8 +454,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61uSj-G6M-L._AC_UL320_.jpg",
     "first_seen": "2026-07-07T08:55:19.302308+00:00",
-    "missing_count": 128,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 129,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0FNM2MZDB": {
     "key": "B0FNM2MZDB",
@@ -465,8 +465,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/617aJK-SJDL._AC_UL320_.jpg",
     "first_seen": "2026-07-02T05:58:42.993807+00:00",
-    "missing_count": 164,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 165,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0FH4FD9NB": {
     "key": "B0FH4FD9NB",
@@ -476,8 +476,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61UJuDqe8KL._AC_UL320_.jpg",
     "first_seen": "2026-07-08T22:17:01.180516+00:00",
-    "missing_count": 170,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 171,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0DGFZ6WR2": {
     "key": "B0DGFZ6WR2",
@@ -487,8 +487,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/611eYwWAd8L._AC_UL320_.jpg",
     "first_seen": "2026-07-07T14:30:49.477833+00:00",
-    "missing_count": 185,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 186,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0DWSBHQWD": {
     "key": "B0DWSBHQWD",
@@ -498,8 +498,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/41dY7xFDNYL._AC_UL320_.jpg",
     "first_seen": "2026-07-02T15:40:24.541512+00:00",
-    "missing_count": 185,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 186,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0GS8PVZ2F": {
     "key": "B0GS8PVZ2F",
@@ -509,8 +509,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/715fF9XOWgL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 194,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 195,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0C52YJQBC": {
     "key": "B0C52YJQBC",
@@ -520,8 +520,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/516r5DrOFDL._AC_UL320_.jpg",
     "first_seen": "2026-07-06T10:18:13.547149+00:00",
-    "missing_count": 195,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 196,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0CY4H1TJD": {
     "key": "B0CY4H1TJD",
@@ -531,8 +531,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61M3m-HYBvL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 209,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 210,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "B0FLCFNPF2": {
     "key": "B0FLCFNPF2",
@@ -542,8 +542,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/71DPaTFm20L._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 259,
-    "last_missing_at": "2026-07-22T11:46:11.214164+00:00"
+    "missing_count": 260,
+    "last_missing_at": "2026-07-22T13:11:06.127706+00:00"
   },
   "__meta__": {
     "consecutive_failures": 0
