@@ -44,15 +44,6 @@
     "image": "https://m.media-amazon.com/images/I/713NbKuawIL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00"
   },
-  "B0GS4F6977": {
-    "key": "B0GS4F6977",
-    "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-19 星光弹珠H",
-    "url": "https://www.amazon.co.jp/dp/B0GS4F6977?language=zh",
-    "price": null,
-    "in_stock": false,
-    "image": "https://m.media-amazon.com/images/I/61khMPSZLZL._AC_UL320_.jpg",
-    "first_seen": "2026-06-30T08:49:50.529838+00:00"
-  },
   "B0FCLJ67NK": {
     "key": "B0FCLJ67NK",
     "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-07 入门 Pigasus Blast ATr",
@@ -78,6 +69,15 @@
     "price": null,
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/71HNhQey5TL._AC_UL320_.jpg",
+    "first_seen": "2026-06-30T08:49:50.529838+00:00"
+  },
+  "B0GS4F6977": {
+    "key": "B0GS4F6977",
+    "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-19 星光弹珠H",
+    "url": "https://www.amazon.co.jp/dp/B0GS4F6977?language=zh",
+    "price": null,
+    "in_stock": false,
+    "image": "https://m.media-amazon.com/images/I/61khMPSZLZL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00"
   },
   "B0H4PK66SN": {
@@ -223,8 +223,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61kINR1gxbL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 1,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 2,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0FQ9ZSLPD": {
     "key": "B0FQ9ZSLPD",
@@ -234,8 +234,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/51tLLvv212L._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 1,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 2,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0CMZQ9157": {
     "key": "B0CMZQ9157",
@@ -245,8 +245,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/619ruy98JUL._AC_UL320_.jpg",
     "first_seen": "2026-07-05T07:24:23.211054+00:00",
-    "missing_count": 1,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 2,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0DSKDBFTD": {
     "key": "B0DSKDBFTD",
@@ -256,8 +256,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61B0Tm9q6FL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T16:33:20.448419+00:00",
-    "missing_count": 1,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 2,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0H4PPV8MR": {
     "key": "B0H4PPV8MR",
@@ -267,8 +267,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61UYOrroRUL._AC_UL320_.jpg",
     "first_seen": "2026-07-01T08:56:03.117374+00:00",
-    "missing_count": 4,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 5,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0DWS96T4F": {
     "key": "B0DWS96T4F",
@@ -278,8 +278,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/51nupFqvG0L._AC_UL320_.jpg",
     "first_seen": "2026-07-08T08:45:14.858645+00:00",
-    "missing_count": 4,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 5,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0FLCFNPF2": {
     "key": "B0FLCFNPF2",
@@ -289,8 +289,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/71DPaTFm20L._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 4,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 5,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0F89Y6XQ1": {
     "key": "B0F89Y6XQ1",
@@ -300,8 +300,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61uqJHueE4L._AC_UL320_.jpg",
     "first_seen": "2026-07-14T09:24:53.569810+00:00",
-    "missing_count": 4,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 5,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0G1QZR681": {
     "key": "B0G1QZR681",
@@ -311,8 +311,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/618F-y-CbbL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 5,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 6,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0C52C4L3T": {
     "key": "B0C52C4L3T",
@@ -322,8 +322,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61aJExH96+L._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 16,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 17,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0GMF1DTFB": {
     "key": "B0GMF1DTFB",
@@ -333,8 +333,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61gwfg1zFUL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 17,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 18,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0CMZSRJ3Q": {
     "key": "B0CMZSRJ3Q",
@@ -344,8 +344,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/715NtHVPy-L._AC_UL320_.jpg",
     "first_seen": "2026-07-07T22:10:29.662831+00:00",
-    "missing_count": 26,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 27,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0DWS3ZFF7": {
     "key": "B0DWS3ZFF7",
@@ -355,8 +355,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/511H5QhxO+L._AC_UL320_.jpg",
     "first_seen": "2026-07-01T08:56:03.117374+00:00",
-    "missing_count": 43,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 44,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0C52SMHWN": {
     "key": "B0C52SMHWN",
@@ -366,8 +366,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/51BbPk+4XdL._AC_UL320_.jpg",
     "first_seen": "2026-07-20T07:57:35.372456+00:00",
-    "missing_count": 51,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 52,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0G1R7LCTV": {
     "key": "B0G1R7LCTV",
@@ -377,8 +377,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61AdOAWdTgL._AC_UL320_.jpg",
     "first_seen": "2026-07-02T18:57:22.225570+00:00",
-    "missing_count": 67,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 68,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0DJQQDFPS": {
     "key": "B0DJQQDFPS",
@@ -388,8 +388,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61jv21uYbaL._AC_UL320_.jpg",
     "first_seen": "2026-07-08T16:38:06.311105+00:00",
-    "missing_count": 92,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 93,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B001DR87UE": {
     "key": "B001DR87UE",
@@ -399,8 +399,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61qzUglMgEL._AC_UL320_.jpg",
     "first_seen": "2026-07-14T09:24:53.569810+00:00",
-    "missing_count": 103,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 104,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0DWS1N4ZX": {
     "key": "B0DWS1N4ZX",
@@ -410,8 +410,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61RNnRJffxL._AC_UL320_.jpg",
     "first_seen": "2026-07-01T19:17:42.807358+00:00",
-    "missing_count": 109,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 110,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0D91K2WMS": {
     "key": "B0D91K2WMS",
@@ -421,8 +421,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61Hddyysl2L._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 110,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 111,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0CV7HF3W6": {
     "key": "B0CV7HF3W6",
@@ -432,8 +432,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61-+DlVImfL._AC_UL320_.jpg",
     "first_seen": "2026-07-01T08:56:03.117374+00:00",
-    "missing_count": 111,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 112,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0CKQT37TB": {
     "key": "B0CKQT37TB",
@@ -443,8 +443,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61rRlWgjv7L._AC_UL320_.jpg",
     "first_seen": "2026-07-16T04:07:47.852450+00:00",
-    "missing_count": 111,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 112,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0F12RK1F4": {
     "key": "B0F12RK1F4",
@@ -454,8 +454,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/611c0mktBHL._AC_UL320_.jpg",
     "first_seen": "2026-07-02T11:32:55.945060+00:00",
-    "missing_count": 132,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 133,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0CHR9SD9Z": {
     "key": "B0CHR9SD9Z",
@@ -465,8 +465,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61uSj-G6M-L._AC_UL320_.jpg",
     "first_seen": "2026-07-07T08:55:19.302308+00:00",
-    "missing_count": 155,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 156,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0FNM2MZDB": {
     "key": "B0FNM2MZDB",
@@ -476,8 +476,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/617aJK-SJDL._AC_UL320_.jpg",
     "first_seen": "2026-07-02T05:58:42.993807+00:00",
-    "missing_count": 191,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 192,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0FH4FD9NB": {
     "key": "B0FH4FD9NB",
@@ -487,8 +487,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61UJuDqe8KL._AC_UL320_.jpg",
     "first_seen": "2026-07-08T22:17:01.180516+00:00",
-    "missing_count": 197,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 198,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0DGFZ6WR2": {
     "key": "B0DGFZ6WR2",
@@ -498,8 +498,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/611eYwWAd8L._AC_UL320_.jpg",
     "first_seen": "2026-07-07T14:30:49.477833+00:00",
-    "missing_count": 212,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 213,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0DWSBHQWD": {
     "key": "B0DWSBHQWD",
@@ -509,8 +509,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/41dY7xFDNYL._AC_UL320_.jpg",
     "first_seen": "2026-07-02T15:40:24.541512+00:00",
-    "missing_count": 212,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 213,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0GS8PVZ2F": {
     "key": "B0GS8PVZ2F",
@@ -520,8 +520,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/715fF9XOWgL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 221,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 222,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0C52YJQBC": {
     "key": "B0C52YJQBC",
@@ -531,8 +531,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/516r5DrOFDL._AC_UL320_.jpg",
     "first_seen": "2026-07-06T10:18:13.547149+00:00",
-    "missing_count": 222,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 223,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "B0CY4H1TJD": {
     "key": "B0CY4H1TJD",
@@ -542,8 +542,8 @@
     "in_stock": false,
     "image": "https://m.media-amazon.com/images/I/61M3m-HYBvL._AC_UL320_.jpg",
     "first_seen": "2026-06-30T08:49:50.529838+00:00",
-    "missing_count": 236,
-    "last_missing_at": "2026-07-24T18:45:43.196330+00:00"
+    "missing_count": 237,
+    "last_missing_at": "2026-07-24T20:03:24.120439+00:00"
   },
   "__meta__": {
     "consecutive_failures": 0
