@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T17:59:27.686002+00:00",
+  "updated_at": "2026-08-09T18:42:02.397331+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -147,17 +147,6 @@
       "status": "normal"
     },
     {
-      "key": "B0C52C4L3T",
-      "title": "宝汤米(TAKARA TOMY) BEYBLADE X 贝叶刃X BX-02 启动器 地狱尺寸 4-60T",
-      "url": "https://www.amazon.co.jp/dp/B0C52C4L3T?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61aJExH96+L._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0C52C4L3T",
-      "status": "normal"
-    },
-    {
       "key": "B0H4PM8QCF",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-50 随机补充装Vol.11 | ランダムブースターVol.11 全6種類のうち1個入り 電池不要 ベイブレードXシリーズ対応 ベイコードカード付き",
       "url": "https://www.amazon.co.jp/dp/B0H4PM8QCF?language=zh",
@@ -243,6 +232,17 @@
       "image": "https://m.media-amazon.com/images/I/51gwI+uzFUL._AC_UL320_.jpg",
       "first_seen": "2026-07-07T14:30:49.477833+00:00",
       "id": "B0H19XNXW2",
+      "status": "normal"
+    },
+    {
+      "key": "B0CMZSRJ3Q",
+      "title": "BEYBLADE X 霸旋陀螺X BX-23 入门 凤凰翼 9-60GF 金属",
+      "url": "https://www.amazon.co.jp/dp/B0CMZSRJ3Q?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/715NtHVPy-L._AC_UL320_.jpg",
+      "first_seen": "2026-07-07T22:10:29.662831+00:00",
+      "id": "B0CMZSRJ3Q",
       "status": "normal"
     },
     {
