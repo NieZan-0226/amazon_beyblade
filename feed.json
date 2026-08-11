@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-08-11T14:21:18.329069+00:00",
+  "updated_at": "2026-08-11T15:28:51.842298+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
+    {
+      "key": "B0CV7D5B6K",
+      "title": "BEYBLADE X ベイブレードX UX-03 增强 巫师之杖 5-70DB",
+      "url": "https://www.amazon.co.jp/dp/B0CV7D5B6K?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/611gwoTOetL._AC_UL320_.jpg",
+      "first_seen": "2026-08-11T15:28:51.707817+00:00",
+      "id": "B0CV7D5B6K",
+      "status": "new"
+    },
     {
       "key": "B0GMF1DTFB",
       "title": "TAKARA TOMY(TAKARA TOMY) CX-13 星际巴哈姆特布里茨BK1-50I",
@@ -125,17 +136,6 @@
       "status": "normal"
     },
     {
-      "key": "B0D6MZB1VF",
-      "title": "BEYBLADE X 霸旋陀螺X BX-34 星机 钴龙2-60C",
-      "url": "https://www.amazon.co.jp/dp/B0D6MZB1VF?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61LOQ-xHnQL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0D6MZB1VF",
-      "status": "normal"
-    },
-    {
       "key": "B0GG8V3N79",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-12 助推器 Phenix Flex Z9-80WW",
       "url": "https://www.amazon.co.jp/dp/B0GG8V3N79?language=zh",
@@ -144,6 +144,17 @@
       "image": "https://m.media-amazon.com/images/I/616LLncUykL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0GG8V3N79",
+      "status": "normal"
+    },
+    {
+      "key": "B0D6MZB1VF",
+      "title": "BEYBLADE X 霸旋陀螺X BX-34 星机 钴龙2-60C",
+      "url": "https://www.amazon.co.jp/dp/B0D6MZB1VF?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61LOQ-xHnQL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0D6MZB1VF",
       "status": "normal"
     },
     {
@@ -232,17 +243,6 @@
       "image": "https://m.media-amazon.com/images/I/51gwI+uzFUL._AC_UL320_.jpg",
       "first_seen": "2026-07-07T14:30:49.477833+00:00",
       "id": "B0H19XNXW2",
-      "status": "normal"
-    },
-    {
-      "key": "B0DJQQDFPS",
-      "title": "BEYBLADE X ベイブレードX UX-09 启动器 武士剑2-70L",
-      "url": "https://www.amazon.co.jp/dp/B0DJQQDFPS?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61jv21uYbaL._AC_UL320_.jpg",
-      "first_seen": "2026-07-08T16:38:06.311105+00:00",
-      "id": "B0DJQQDFPS",
       "status": "normal"
     },
     {
