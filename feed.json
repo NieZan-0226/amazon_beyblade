@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T11:27:45.002641+00:00",
+  "updated_at": "2026-08-13T13:46:29.523844+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -136,17 +136,6 @@
       "status": "normal"
     },
     {
-      "key": "B0DMSQ57X5",
-      "title": "BEYBLADE X 霸旋陀螺 X UX-11 入门套装 冲击德雷克9-60LR",
-      "url": "https://www.amazon.co.jp/dp/B0DMSQ57X5?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61kINR1gxbL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0DMSQ57X5",
-      "status": "normal"
-    },
-    {
       "key": "B0H4PM8QCF",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-50 随机补充装Vol.11 | ランダムブースターVol.11 全6種類のうち1個入り 電池不要 ベイブレードXシリーズ対応 ベイコードカード付き",
       "url": "https://www.amazon.co.jp/dp/B0H4PM8QCF?language=zh",
@@ -224,6 +213,17 @@
       "status": "normal"
     },
     {
+      "key": "B0DJQQDFPS",
+      "title": "BEYBLADE X ベイブレードX UX-09 启动器 武士剑2-70L",
+      "url": "https://www.amazon.co.jp/dp/B0DJQQDFPS?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61jv21uYbaL._AC_UL320_.jpg",
+      "first_seen": "2026-07-08T16:38:06.311105+00:00",
+      "id": "B0DJQQDFPS",
+      "status": "normal"
+    },
+    {
       "key": "B0FH4FD9NB",
       "title": "TAKARA TOMY BEYBLADE X 战斗陀螺X UX-15 鲨鱼鳞片套牌组合",
       "url": "https://www.amazon.co.jp/dp/B0FH4FD9NB?language=zh",
@@ -258,7 +258,7 @@
     },
     {
       "key": "B0HCXR5PWS",
-      "title": "タカラトミー(TAKARA TOMY) BEYBLADE X ベイブレードX CX-19 ランダムブースター クロコトレッドセレクト",
+      "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-19 随机助推器 鳄鱼纹选择",
       "url": "https://www.amazon.co.jp/dp/B0HCXR5PWS?language=zh",
       "price": null,
       "in_stock": false,
