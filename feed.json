@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T10:39:02.965876+00:00",
+  "updated_at": "2026-08-13T11:27:45.002641+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -111,17 +111,6 @@
       "image": "https://m.media-amazon.com/images/I/616LLncUykL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0GG8V3N79",
-      "status": "normal"
-    },
-    {
-      "key": "B0FH4FF4NJ",
-      "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-45 助推器 サムライカリバー6-70M",
-      "url": "https://www.amazon.co.jp/dp/B0FH4FF4NJ?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61r02QY+sgL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0FH4FF4NJ",
       "status": "normal"
     },
     {
@@ -254,6 +243,17 @@
       "image": "https://m.media-amazon.com/images/I/712PbSkR+lL._AC_UL320_.jpg",
       "first_seen": "2026-07-14T18:16:25.218236+00:00",
       "id": "B0H861Y9Y3",
+      "status": "normal"
+    },
+    {
+      "key": "B0H85ZRYJX",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X BX-57 3on3甲板壳 黑色Ver.",
+      "url": "https://www.amazon.co.jp/dp/B0H85ZRYJX?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/51ZG9ZnpxeL._AC_UL320_.jpg",
+      "first_seen": "2026-07-14T18:16:25.218236+00:00",
+      "id": "B0H85ZRYJX",
       "status": "normal"
     },
     {
