@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T00:43:18.470911+00:00",
+  "updated_at": "2026-08-13T03:13:33.360575+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -26,6 +26,17 @@
       "status": "normal"
     },
     {
+      "key": "B0G1QZR681",
+      "title": "TAKARA TOMY(タカラトミー) BEYBLADE X ベイブレードX UX-17 スターター メテオドラグーン3-70J",
+      "url": "https://www.amazon.co.jp/dp/B0G1QZR681?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/618F-y-CbbL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0G1QZR681",
+      "status": "normal"
+    },
+    {
       "key": "B0GMF1DTFB",
       "title": "TAKARA TOMY(TAKARA TOMY) CX-13 星际巴哈姆特布里茨BK1-50I",
       "url": "https://www.amazon.co.jp/dp/B0GMF1DTFB?language=zh",
@@ -45,17 +56,6 @@
       "image": "https://m.media-amazon.com/images/I/61khMPSZLZL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0GS4F6977",
-      "status": "normal"
-    },
-    {
-      "key": "B0G1QZR681",
-      "title": "TAKARA TOMY(タカラトミー) BEYBLADE X ベイブレードX UX-17 スターター メテオドラグーン3-70J",
-      "url": "https://www.amazon.co.jp/dp/B0G1QZR681?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/618F-y-CbbL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0G1QZR681",
       "status": "normal"
     },
     {
@@ -125,17 +125,6 @@
       "status": "normal"
     },
     {
-      "key": "B0GG8V3N79",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-12 助推器 Phenix Flex Z9-80WW",
-      "url": "https://www.amazon.co.jp/dp/B0GG8V3N79?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/616LLncUykL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GG8V3N79",
-      "status": "normal"
-    },
-    {
       "key": "B0D6MZB1VF",
       "title": "BEYBLADE X 霸旋陀螺X BX-34 星机 钴龙2-60C",
       "url": "https://www.amazon.co.jp/dp/B0D6MZB1VF?language=zh",
@@ -147,6 +136,17 @@
       "status": "normal"
     },
     {
+      "key": "B0GG8V3N79",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-12 助推器 Phenix Flex Z9-80WW",
+      "url": "https://www.amazon.co.jp/dp/B0GG8V3N79?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/616LLncUykL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0GG8V3N79",
+      "status": "normal"
+    },
+    {
       "key": "B0FH4FF4NJ",
       "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-45 助推器 サムライカリバー6-70M",
       "url": "https://www.amazon.co.jp/dp/B0FH4FF4NJ?language=zh",
@@ -155,17 +155,6 @@
       "image": "https://m.media-amazon.com/images/I/61r02QY+sgL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0FH4FF4NJ",
-      "status": "normal"
-    },
-    {
-      "key": "B0C52C4L3T",
-      "title": "宝汤米(TAKARA TOMY) BEYBLADE X 贝叶刃X BX-02 启动器 地狱尺寸 4-60T",
-      "url": "https://www.amazon.co.jp/dp/B0C52C4L3T?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61aJExH96+L._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0C52C4L3T",
       "status": "normal"
     },
     {
@@ -199,6 +188,17 @@
       "image": "https://m.media-amazon.com/images/I/61UYOrroRUL._AC_UL320_.jpg",
       "first_seen": "2026-07-01T08:56:03.117374+00:00",
       "id": "B0H4PPV8MR",
+      "status": "normal"
+    },
+    {
+      "key": "B0DWS3ZFF7",
+      "title": "BEYBLADE X 霸旋陀螺X BX-43 变速箱 白色Ver.",
+      "url": "https://www.amazon.co.jp/dp/B0DWS3ZFF7?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/511H5QhxO+L._AC_UL320_.jpg",
+      "first_seen": "2026-07-01T08:56:03.117374+00:00",
+      "id": "B0DWS3ZFF7",
       "status": "normal"
     },
     {
