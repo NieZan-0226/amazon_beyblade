@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T01:12:22.482103+00:00",
+  "updated_at": "2026-08-16T02:34:50.549742+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -81,17 +81,6 @@
       "status": "normal"
     },
     {
-      "key": "B0FV74J4H5",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-10 助推器 狼狩猎F0-60DB",
-      "url": "https://www.amazon.co.jp/dp/B0FV74J4H5?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/71myiiLXiRL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0FV74J4H5",
-      "status": "normal"
-    },
-    {
       "key": "B0H4PK66SN",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-00 入门 Storm Pigasis 3-70RA",
       "url": "https://www.amazon.co.jp/dp/B0H4PK66SN?language=zh",
@@ -100,6 +89,17 @@
       "image": "https://m.media-amazon.com/images/I/61CFyvfN1XL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0H4PK66SN",
+      "status": "normal"
+    },
+    {
+      "key": "B0FV74J4H5",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-10 助推器 狼狩猎F0-60DB",
+      "url": "https://www.amazon.co.jp/dp/B0FV74J4H5?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/71myiiLXiRL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0FV74J4H5",
       "status": "normal"
     },
     {
@@ -133,17 +133,6 @@
       "image": "https://m.media-amazon.com/images/I/61LOQ-xHnQL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0D6MZB1VF",
-      "status": "normal"
-    },
-    {
-      "key": "B0GG8V3N79",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-12 助推器 Phenix Flex Z9-80WW",
-      "url": "https://www.amazon.co.jp/dp/B0GG8V3N79?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/616LLncUykL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GG8V3N79",
       "status": "normal"
     },
     {
@@ -210,6 +199,17 @@
       "image": "https://m.media-amazon.com/images/I/61kd9QyerdL._AC_UL320_.jpg",
       "first_seen": "2026-07-03T11:16:52.773691+00:00",
       "id": "B0GWKWBXH3",
+      "status": "normal"
+    },
+    {
+      "key": "B0C52YJQBC",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X BX-10 极限体育场",
+      "url": "https://www.amazon.co.jp/dp/B0C52YJQBC?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/516r5DrOFDL._AC_UL320_.jpg",
+      "first_seen": "2026-07-06T10:18:13.547149+00:00",
+      "id": "B0C52YJQBC",
       "status": "normal"
     },
     {
