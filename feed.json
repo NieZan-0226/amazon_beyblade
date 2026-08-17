@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T19:43:28.233479+00:00",
+  "updated_at": "2026-08-17T20:28:50.716915+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -147,6 +147,17 @@
       "status": "normal"
     },
     {
+      "key": "B0GG8QM8YS",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-48 随机补充装Vol.9",
+      "url": "https://www.amazon.co.jp/dp/B0GG8QM8YS?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61D91mQOqYL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0GG8QM8YS",
+      "status": "normal"
+    },
+    {
       "key": "B0H4PM8QCF",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-50 随机补充装Vol.11 | ランダムブースターVol.11 全6種類のうち1個入り 電池不要 ベイブレードXシリーズ対応 ベイコードカード付き",
       "url": "https://www.amazon.co.jp/dp/B0H4PM8QCF?language=zh",
@@ -199,17 +210,6 @@
       "image": "https://m.media-amazon.com/images/I/61kd9QyerdL._AC_UL320_.jpg",
       "first_seen": "2026-07-03T11:16:52.773691+00:00",
       "id": "B0GWKWBXH3",
-      "status": "normal"
-    },
-    {
-      "key": "B0C52YJQBC",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X BX-10 极限体育场",
-      "url": "https://www.amazon.co.jp/dp/B0C52YJQBC?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/516r5DrOFDL._AC_UL320_.jpg",
-      "first_seen": "2026-07-06T10:18:13.547149+00:00",
-      "id": "B0C52YJQBC",
       "status": "normal"
     },
     {
