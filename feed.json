@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T15:57:40.837353+00:00",
+  "updated_at": "2026-08-18T16:28:56.374830+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -213,17 +213,6 @@
       "status": "normal"
     },
     {
-      "key": "B0C52YJQBC",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X BX-10 极限体育场",
-      "url": "https://www.amazon.co.jp/dp/B0C52YJQBC?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/516r5DrOFDL._AC_UL320_.jpg",
-      "first_seen": "2026-07-06T10:18:13.547149+00:00",
-      "id": "B0C52YJQBC",
-      "status": "normal"
-    },
-    {
       "key": "B0H19XNXW2",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X BX-51 弦发射器 黑色×绿色",
       "url": "https://www.amazon.co.jp/dp/B0H19XNXW2?language=zh",
@@ -254,6 +243,17 @@
       "image": "https://m.media-amazon.com/images/I/61UJuDqe8KL._AC_UL320_.jpg",
       "first_seen": "2026-07-08T22:17:01.180516+00:00",
       "id": "B0FH4FD9NB",
+      "status": "normal"
+    },
+    {
+      "key": "B0H85ZRYJX",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X BX-57 3on3甲板壳 黑色Ver.",
+      "url": "https://www.amazon.co.jp/dp/B0H85ZRYJX?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/51ZG9ZnpxeL._AC_UL320_.jpg",
+      "first_seen": "2026-07-14T18:16:25.218236+00:00",
+      "id": "B0H85ZRYJX",
       "status": "normal"
     },
     {
