@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T17:56:41.817448+00:00",
+  "updated_at": "2026-08-25T18:36:50.091837+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -45,17 +45,6 @@
       "image": "https://m.media-amazon.com/images/I/71myiiLXiRL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0FV74J4H5",
-      "status": "normal"
-    },
-    {
-      "key": "B0DMSQ57X5",
-      "title": "BEYBLADE X 霸旋陀螺 X UX-11 入门套装 冲击德雷克9-60LR",
-      "url": "https://www.amazon.co.jp/dp/B0DMSQ57X5?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61kINR1gxbL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0DMSQ57X5",
       "status": "normal"
     },
     {
@@ -122,6 +111,17 @@
       "image": "https://m.media-amazon.com/images/I/61qO6OBNzBL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0DWSRHP7J",
+      "status": "normal"
+    },
+    {
+      "key": "B0GMFHY6ZV",
+      "title": "TAKARA TOMYTAKARA TOMY(TAKARA TOMY) CX-15 增压器拉格纳雷吉FE4-55Y",
+      "url": "https://www.amazon.co.jp/dp/B0GMFHY6ZV?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/71HNhQey5TL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0GMFHY6ZV",
       "status": "normal"
     },
     {
