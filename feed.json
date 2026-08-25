@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T23:01:01.344178+00:00",
+  "updated_at": "2026-08-25T01:26:43.446044+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -92,17 +92,6 @@
       "status": "normal"
     },
     {
-      "key": "B0G1QZR681",
-      "title": "TAKARA TOMY(タカラトミー) BEYBLADE X ベイブレードX UX-17 スターター メテオドラグーン3-70J",
-      "url": "https://www.amazon.co.jp/dp/B0G1QZR681?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/618F-y-CbbL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0G1QZR681",
-      "status": "normal"
-    },
-    {
       "key": "B0F47G3QJT",
       "title": "TAKARA TOMY BEYBLADE X 霸旋陀螺 X UX-14 入门套装 天蝎座长矛 0-70Z",
       "url": "https://www.amazon.co.jp/dp/B0F47G3QJT?language=zh",
@@ -136,14 +125,14 @@
       "status": "normal"
     },
     {
-      "key": "B0DGFZND26",
-      "title": "BEYBLADE X 贝blade X UX-08 启动器 银狼 3-80FB",
-      "url": "https://www.amazon.co.jp/dp/B0DGFZND26?language=zh",
+      "key": "B0G1QZR681",
+      "title": "TAKARA TOMY(タカラトミー) BEYBLADE X ベイブレードX UX-17 スターター メテオドラグーン3-70J",
+      "url": "https://www.amazon.co.jp/dp/B0G1QZR681?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61ms17dm4vL._AC_UL320_.jpg",
+      "image": "https://m.media-amazon.com/images/I/618F-y-CbbL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0DGFZND26",
+      "id": "B0G1QZR681",
       "status": "normal"
     },
     {
@@ -213,6 +202,17 @@
       "status": "normal"
     },
     {
+      "key": "B0DJQQDFPS",
+      "title": "BEYBLADE X ベイブレードX UX-09 启动器 武士剑2-70L",
+      "url": "https://www.amazon.co.jp/dp/B0DJQQDFPS?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61jv21uYbaL._AC_UL320_.jpg",
+      "first_seen": "2026-07-08T16:38:06.311105+00:00",
+      "id": "B0DJQQDFPS",
+      "status": "normal"
+    },
+    {
       "key": "B0FH4FD9NB",
       "title": "TAKARA TOMY BEYBLADE X 战斗陀螺X UX-15 鲨鱼鳞片套牌组合",
       "url": "https://www.amazon.co.jp/dp/B0FH4FD9NB?language=zh",
@@ -257,14 +257,14 @@
       "status": "normal"
     },
     {
-      "key": "B0DWS7DDK4",
-      "title": "BEYBLADE X 贝blade X CX-01 启动者 龙勇 S6-60V",
-      "url": "https://www.amazon.co.jp/dp/B0DWS7DDK4?language=zh",
+      "key": "B0D6ML5D1N",
+      "title": "BEYBLADE X ベイブレードX BX-35 ランダムブースター Vol.4",
+      "url": "https://www.amazon.co.jp/dp/B0D6ML5D1N?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61MpAh-qOsL._AC_UL320_.jpg",
-      "first_seen": "2026-08-16T07:18:05.947589+00:00",
-      "id": "B0DWS7DDK4",
+      "image": "https://m.media-amazon.com/images/I/61rW28sHQPL._AC_UL320_.jpg",
+      "first_seen": "2026-08-23T15:20:12.455343+00:00",
+      "id": "B0D6ML5D1N",
       "status": "normal"
     }
   ]
