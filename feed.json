@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T06:45:04.593259+00:00",
+  "updated_at": "2026-08-26T07:32:33.024445+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -114,6 +114,17 @@
       "status": "normal"
     },
     {
+      "key": "B0DGFZND26",
+      "title": "BEYBLADE X 贝blade X UX-08 启动器 银狼 3-80FB",
+      "url": "https://www.amazon.co.jp/dp/B0DGFZND26?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61ms17dm4vL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0DGFZND26",
+      "status": "normal"
+    },
+    {
       "key": "B0FLCFNPF2",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-09 入门 SOLECLIPS D5-70TK",
       "url": "https://www.amazon.co.jp/dp/B0FLCFNPF2?language=zh",
@@ -122,17 +133,6 @@
       "image": "https://m.media-amazon.com/images/I/71DPaTFm20L._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0FLCFNPF2",
-      "status": "normal"
-    },
-    {
-      "key": "B0DWSRHP7J",
-      "title": "BEYBLADE X 贝blade X CX-02 启动器 巫师之弧 R4-55LO",
-      "url": "https://www.amazon.co.jp/dp/B0DWSRHP7J?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61qO6OBNzBL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0DWSRHP7J",
       "status": "normal"
     },
     {
