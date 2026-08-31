@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T07:23:59.479237+00:00",
+  "updated_at": "2026-08-31T15:16:41.726343+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -114,6 +114,17 @@
       "status": "normal"
     },
     {
+      "key": "B0GMDYS21K",
+      "title": "TAKARA TOMYTAKARA TOMY(TAKARA TOMY) CX-14 入门款 Night Fort GV8-70UN",
+      "url": "https://www.amazon.co.jp/dp/B0GMDYS21K?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61N7ksTpjhL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0GMDYS21K",
+      "status": "normal"
+    },
+    {
       "key": "B0H4PM8QCF",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-50 随机补充装Vol.11 | ランダムブースターVol.11 全6種類のうち1個入り 電池不要 ベイブレードXシリーズ対応 ベイコードカード付き",
       "url": "https://www.amazon.co.jp/dp/B0H4PM8QCF?language=zh",
@@ -177,17 +188,6 @@
       "image": "https://m.media-amazon.com/images/I/516r5DrOFDL._AC_UL320_.jpg",
       "first_seen": "2026-07-06T10:18:13.547149+00:00",
       "id": "B0C52YJQBC",
-      "status": "normal"
-    },
-    {
-      "key": "B0H19XNXW2",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X BX-51 弦发射器 黑色×绿色",
-      "url": "https://www.amazon.co.jp/dp/B0H19XNXW2?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/51gwI+uzFUL._AC_UL320_.jpg",
-      "first_seen": "2026-07-07T14:30:49.477833+00:00",
-      "id": "B0H19XNXW2",
       "status": "normal"
     },
     {
