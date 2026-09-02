@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-02T05:49:55.945058+00:00",
+  "updated_at": "2026-09-02T10:40:26.304803+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
+    {
+      "key": "B0CMZRMKPG",
+      "title": "BEYBLADE X 霸旋陀螺X BX-24 随机增压器 Vol.2 金属",
+      "url": "https://www.amazon.co.jp/dp/B0CMZRMKPG?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/614YWQ1P4jL._AC_UL320_.jpg",
+      "first_seen": "2026-09-02T10:40:24.687037+00:00",
+      "id": "B0CMZRMKPG",
+      "status": "new"
+    },
     {
       "key": "B0GS4M7T5B",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-49 入门 Dorant Strike 4-50FF",
@@ -177,17 +188,6 @@
       "image": "https://m.media-amazon.com/images/I/61-+DlVImfL._AC_UL320_.jpg",
       "first_seen": "2026-07-01T08:56:03.117374+00:00",
       "id": "B0CV7HF3W6",
-      "status": "normal"
-    },
-    {
-      "key": "B0DWS1N4ZX",
-      "title": "BEYBLADE X タカラトミー(TAKARA TOMY) ベイブレードX CX-04 バトルエントリーセットC",
-      "url": "https://www.amazon.co.jp/dp/B0DWS1N4ZX?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61RNnRJffxL._AC_UL320_.jpg",
-      "first_seen": "2026-07-01T19:17:42.807358+00:00",
-      "id": "B0DWS1N4ZX",
       "status": "normal"
     },
     {
