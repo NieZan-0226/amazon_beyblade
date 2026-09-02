@@ -1,17 +1,28 @@
 {
-  "updated_at": "2026-09-02T10:40:26.304803+00:00",
+  "updated_at": "2026-09-02T14:42:24.137312+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
     {
-      "key": "B0CMZRMKPG",
-      "title": "BEYBLADE X 霸旋陀螺X BX-24 随机增压器 Vol.2 金属",
-      "url": "https://www.amazon.co.jp/dp/B0CMZRMKPG?language=zh",
+      "key": "B0D3TG743N",
+      "title": "BEYBLADE X 贝叶刃X BX-33 增强 白龙虎 3-60U",
+      "url": "https://www.amazon.co.jp/dp/B0D3TG743N?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/614YWQ1P4jL._AC_UL320_.jpg",
-      "first_seen": "2026-09-02T10:40:24.687037+00:00",
-      "id": "B0CMZRMKPG",
+      "image": "https://m.media-amazon.com/images/I/61mBrZQ8sKL._AC_UL320_.jpg",
+      "first_seen": "2026-09-02T14:42:23.974177+00:00",
+      "id": "B0D3TG743N",
+      "status": "new"
+    },
+    {
+      "key": "B0FNM2K421",
+      "title": "塔卡拉汤米(TAKARA TOMY) 运动娱乐场地游戏 SASUKE",
+      "url": "https://www.amazon.co.jp/dp/B0FNM2K421?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61CFz6WKt8L._AC_UL320_.jpg",
+      "first_seen": "2026-09-02T14:42:23.974177+00:00",
+      "id": "B0FNM2K421",
       "status": "new"
     },
     {
@@ -37,17 +48,6 @@
       "status": "normal"
     },
     {
-      "key": "B0GS4F6977",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-19 星光弹珠H",
-      "url": "https://www.amazon.co.jp/dp/B0GS4F6977?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61khMPSZLZL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GS4F6977",
-      "status": "normal"
-    },
-    {
       "key": "B0G1QZR681",
       "title": "TAKARA TOMY(タカラトミー) BEYBLADE X ベイブレードX UX-17 スターター メテオドラグーン3-70J",
       "url": "https://www.amazon.co.jp/dp/B0G1QZR681?language=zh",
@@ -56,6 +56,17 @@
       "image": "https://m.media-amazon.com/images/I/618F-y-CbbL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0G1QZR681",
+      "status": "normal"
+    },
+    {
+      "key": "B0GS4F6977",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-19 星光弹珠H",
+      "url": "https://www.amazon.co.jp/dp/B0GS4F6977?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61khMPSZLZL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0GS4F6977",
       "status": "normal"
     },
     {
@@ -122,17 +133,6 @@
       "image": "https://m.media-amazon.com/images/I/61kINR1gxbL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0DMSQ57X5",
-      "status": "normal"
-    },
-    {
-      "key": "B0D91K2WMS",
-      "title": "BEYBLADE X タカラトミー ベイブレードX UX-06 ブースター レオンクレスト 7-60GN",
-      "url": "https://www.amazon.co.jp/dp/B0D91K2WMS?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61Hddyysl2L._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0D91K2WMS",
       "status": "normal"
     },
     {
