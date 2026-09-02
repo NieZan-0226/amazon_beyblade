@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T01:13:27.453830+00:00",
+  "updated_at": "2026-09-02T05:49:55.945058+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -37,17 +37,6 @@
       "status": "normal"
     },
     {
-      "key": "B0GMFHY6ZV",
-      "title": "TAKARA TOMYTAKARA TOMY(TAKARA TOMY) CX-15 增压器拉格纳雷吉FE4-55Y",
-      "url": "https://www.amazon.co.jp/dp/B0GMFHY6ZV?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/71HNhQey5TL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GMFHY6ZV",
-      "status": "normal"
-    },
-    {
       "key": "B0G1QZR681",
       "title": "TAKARA TOMY(タカラトミー) BEYBLADE X ベイブレードX UX-17 スターター メテオドラグーン3-70J",
       "url": "https://www.amazon.co.jp/dp/B0G1QZR681?language=zh",
@@ -70,14 +59,14 @@
       "status": "normal"
     },
     {
-      "key": "B0CY4H1TJD",
-      "title": "BEYBLADE X 战斗陀螺X BX-00 补充包 烈牙斩击 4-80P",
-      "url": "https://www.amazon.co.jp/dp/B0CY4H1TJD?language=zh",
+      "key": "B0GMDYS21K",
+      "title": "TAKARA TOMYTAKARA TOMY(TAKARA TOMY) CX-14 入门款 Night Fort GV8-70UN",
+      "url": "https://www.amazon.co.jp/dp/B0GMDYS21K?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61M3m-HYBvL._AC_UL320_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61N7ksTpjhL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0CY4H1TJD",
+      "id": "B0GMDYS21K",
       "status": "normal"
     },
     {
@@ -92,17 +81,6 @@
       "status": "normal"
     },
     {
-      "key": "B0GMDYS21K",
-      "title": "TAKARA TOMYTAKARA TOMY(TAKARA TOMY) CX-14 入门款 Night Fort GV8-70UN",
-      "url": "https://www.amazon.co.jp/dp/B0GMDYS21K?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61N7ksTpjhL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GMDYS21K",
-      "status": "normal"
-    },
-    {
       "key": "B0F47G3QJT",
       "title": "TAKARA TOMY BEYBLADE X 霸旋陀螺 X UX-14 入门套装 天蝎座长矛 0-70Z",
       "url": "https://www.amazon.co.jp/dp/B0F47G3QJT?language=zh",
@@ -111,6 +89,39 @@
       "image": "https://m.media-amazon.com/images/I/712keT+tMML._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0F47G3QJT",
+      "status": "normal"
+    },
+    {
+      "key": "B0GMFHY6ZV",
+      "title": "TAKARA TOMYTAKARA TOMY(TAKARA TOMY) CX-15 增压器拉格纳雷吉FE4-55Y",
+      "url": "https://www.amazon.co.jp/dp/B0GMFHY6ZV?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/71HNhQey5TL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0GMFHY6ZV",
+      "status": "normal"
+    },
+    {
+      "key": "B0DMSQ57X5",
+      "title": "BEYBLADE X 霸旋陀螺 X UX-11 入门套装 冲击德雷克9-60LR",
+      "url": "https://www.amazon.co.jp/dp/B0DMSQ57X5?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61kINR1gxbL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0DMSQ57X5",
+      "status": "normal"
+    },
+    {
+      "key": "B0D91K2WMS",
+      "title": "BEYBLADE X タカラトミー ベイブレードX UX-06 ブースター レオンクレスト 7-60GN",
+      "url": "https://www.amazon.co.jp/dp/B0D91K2WMS?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61Hddyysl2L._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0D91K2WMS",
       "status": "normal"
     },
     {
@@ -169,6 +180,17 @@
       "status": "normal"
     },
     {
+      "key": "B0DWS1N4ZX",
+      "title": "BEYBLADE X タカラトミー(TAKARA TOMY) ベイブレードX CX-04 バトルエントリーセットC",
+      "url": "https://www.amazon.co.jp/dp/B0DWS1N4ZX?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61RNnRJffxL._AC_UL320_.jpg",
+      "first_seen": "2026-07-01T19:17:42.807358+00:00",
+      "id": "B0DWS1N4ZX",
+      "status": "normal"
+    },
+    {
       "key": "B0CMZQ9157",
       "title": "BEYBLADE X 霸旋陀螺X BX-25 齿轮包",
       "url": "https://www.amazon.co.jp/dp/B0CMZQ9157?language=zh",
@@ -191,6 +213,28 @@
       "status": "normal"
     },
     {
+      "key": "B0CHR9SD9Z",
+      "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-15 入门套装 雷昂克罗 5-60P",
+      "url": "https://www.amazon.co.jp/dp/B0CHR9SD9Z?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61uSj-G6M-L._AC_UL320_.jpg",
+      "first_seen": "2026-07-07T08:55:19.302308+00:00",
+      "id": "B0CHR9SD9Z",
+      "status": "normal"
+    },
+    {
+      "key": "B0DGFZ6WR2",
+      "title": "BEYBLADE X ベイブレードX BX-37 双重极限球场套装",
+      "url": "https://www.amazon.co.jp/dp/B0DGFZ6WR2?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/611eYwWAd8L._AC_UL320_.jpg",
+      "first_seen": "2026-07-07T14:30:49.477833+00:00",
+      "id": "B0DGFZ6WR2",
+      "status": "normal"
+    },
+    {
       "key": "B0CMZSRJ3Q",
       "title": "BEYBLADE X 霸旋陀螺X BX-23 入门 凤凰翼 9-60GF 金属",
       "url": "https://www.amazon.co.jp/dp/B0CMZSRJ3Q?language=zh",
@@ -199,17 +243,6 @@
       "image": "https://m.media-amazon.com/images/I/715NtHVPy-L._AC_UL320_.jpg",
       "first_seen": "2026-07-07T22:10:29.662831+00:00",
       "id": "B0CMZSRJ3Q",
-      "status": "normal"
-    },
-    {
-      "key": "B0DWS96T4F",
-      "title": "BEYBLADE X 贝blade X BX-41 橡胶定制握把 金属色Ver.",
-      "url": "https://www.amazon.co.jp/dp/B0DWS96T4F?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/51nupFqvG0L._AC_UL320_.jpg",
-      "first_seen": "2026-07-08T08:45:14.858645+00:00",
-      "id": "B0DWS96T4F",
       "status": "normal"
     },
     {
@@ -224,17 +257,6 @@
       "status": "normal"
     },
     {
-      "key": "B0C52SMHWN",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-09 战斗通行证",
-      "url": "https://www.amazon.co.jp/dp/B0C52SMHWN?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/51BbPk+4XdL._AC_UL320_.jpg",
-      "first_seen": "2026-07-20T07:57:35.372456+00:00",
-      "id": "B0C52SMHWN",
-      "status": "normal"
-    },
-    {
       "key": "B0CV7D5B6K",
       "title": "BEYBLADE X ベイブレードX UX-03 增强 巫师之杖 5-70DB",
       "url": "https://www.amazon.co.jp/dp/B0CV7D5B6K?language=zh",
@@ -243,28 +265,6 @@
       "image": "https://m.media-amazon.com/images/I/611gwoTOetL._AC_UL320_.jpg",
       "first_seen": "2026-08-11T15:28:51.707817+00:00",
       "id": "B0CV7D5B6K",
-      "status": "normal"
-    },
-    {
-      "key": "B0D6ML5D1N",
-      "title": "BEYBLADE X ベイブレードX BX-35 ランダムブースター Vol.4",
-      "url": "https://www.amazon.co.jp/dp/B0D6ML5D1N?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61rW28sHQPL._AC_UL320_.jpg",
-      "first_seen": "2026-08-23T15:20:12.455343+00:00",
-      "id": "B0D6ML5D1N",
-      "status": "normal"
-    },
-    {
-      "key": "B0G1R71G2F",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-18 随机推进器Vol.8",
-      "url": "https://www.amazon.co.jp/dp/B0G1R71G2F?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61bFFvQNM2L._AC_UL320_.jpg",
-      "first_seen": "2026-08-25T06:46:30.439685+00:00",
-      "id": "B0G1R71G2F",
       "status": "normal"
     }
   ]
