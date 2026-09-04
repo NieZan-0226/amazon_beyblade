@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T21:01:49.585261+00:00",
+  "updated_at": "2026-09-04T00:58:34.013864+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -59,17 +59,6 @@
       "status": "normal"
     },
     {
-      "key": "B0GMDYS21K",
-      "title": "TAKARA TOMYTAKARA TOMY(TAKARA TOMY) CX-14 入门款 Night Fort GV8-70UN",
-      "url": "https://www.amazon.co.jp/dp/B0GMDYS21K?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61N7ksTpjhL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GMDYS21K",
-      "status": "normal"
-    },
-    {
       "key": "B0H1B5QDJK",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-18 随机助推器 Brachio Wip 精选",
       "url": "https://www.amazon.co.jp/dp/B0H1B5QDJK?language=zh",
@@ -78,6 +67,17 @@
       "image": "https://m.media-amazon.com/images/I/713NbKuawIL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0H1B5QDJK",
+      "status": "normal"
+    },
+    {
+      "key": "B0GMDYS21K",
+      "title": "TAKARA TOMYTAKARA TOMY(TAKARA TOMY) CX-14 入门款 Night Fort GV8-70UN",
+      "url": "https://www.amazon.co.jp/dp/B0GMDYS21K?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61N7ksTpjhL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0GMDYS21K",
       "status": "normal"
     },
     {
@@ -122,6 +122,17 @@
       "image": "https://m.media-amazon.com/images/I/61kINR1gxbL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0DMSQ57X5",
+      "status": "normal"
+    },
+    {
+      "key": "B0D91K2WMS",
+      "title": "BEYBLADE X タカラトミー ベイブレードX UX-06 ブースター レオンクレスト 7-60GN",
+      "url": "https://www.amazon.co.jp/dp/B0D91K2WMS?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61Hddyysl2L._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0D91K2WMS",
       "status": "normal"
     },
     {
@@ -180,6 +191,17 @@
       "status": "normal"
     },
     {
+      "key": "B0DWSBHQWD",
+      "title": "BEYBLADE X 霸旋陀螺X BX-40 葡萄酒发射器 L",
+      "url": "https://www.amazon.co.jp/dp/B0DWSBHQWD?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/41dY7xFDNYL._AC_UL320_.jpg",
+      "first_seen": "2026-07-02T15:40:24.541512+00:00",
+      "id": "B0DWSBHQWD",
+      "status": "normal"
+    },
+    {
       "key": "B0CMZQ9157",
       "title": "BEYBLADE X 霸旋陀螺X BX-25 齿轮包",
       "url": "https://www.amazon.co.jp/dp/B0CMZQ9157?language=zh",
@@ -199,17 +221,6 @@
       "image": "https://m.media-amazon.com/images/I/61uSj-G6M-L._AC_UL320_.jpg",
       "first_seen": "2026-07-07T08:55:19.302308+00:00",
       "id": "B0CHR9SD9Z",
-      "status": "normal"
-    },
-    {
-      "key": "B0DGFZ6WR2",
-      "title": "BEYBLADE X ベイブレードX BX-37 双重极限球场套装",
-      "url": "https://www.amazon.co.jp/dp/B0DGFZ6WR2?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/611eYwWAd8L._AC_UL320_.jpg",
-      "first_seen": "2026-07-07T14:30:49.477833+00:00",
-      "id": "B0DGFZ6WR2",
       "status": "normal"
     },
     {
@@ -254,17 +265,6 @@
       "image": "https://m.media-amazon.com/images/I/61MpAh-qOsL._AC_UL320_.jpg",
       "first_seen": "2026-08-16T07:18:05.947589+00:00",
       "id": "B0DWS7DDK4",
-      "status": "normal"
-    },
-    {
-      "key": "B0FNM2K421",
-      "title": "塔卡拉汤米(TAKARA TOMY) 运动娱乐场地游戏 SASUKE",
-      "url": "https://www.amazon.co.jp/dp/B0FNM2K421?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61CFz6WKt8L._AC_UL320_.jpg",
-      "first_seen": "2026-09-02T14:42:23.974177+00:00",
-      "id": "B0FNM2K421",
       "status": "normal"
     }
   ]
