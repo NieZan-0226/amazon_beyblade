@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-09-08T14:31:37.111641+00:00",
+  "updated_at": "2026-09-08T18:02:14.332983+00:00",
   "source": "Amazon JP",
-  "count": 19,
+  "count": 18,
   "products": [
-    {
-      "key": "B0GYBDBH6B",
-      "title": "BEYBLADE X 霸旋陀螺X BX-40 红酒发射器L (× 2)",
-      "url": "https://www.amazon.co.jp/dp/B0GYBDBH6B?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/51mLzKUUCGL._AC_UL320_.jpg",
-      "first_seen": "2026-09-08T14:31:36.328071+00:00",
-      "id": "B0GYBDBH6B",
-      "status": "new"
-    },
-    {
-      "key": "B0HD7R35X8",
-      "title": "BEYBLADE X UX-00 助推器 天蝎座0-70Z 金属涂层:品红",
-      "url": "https://www.amazon.co.jp/dp/B0HD7R35X8?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61QbEkxXeXL._AC_UL320_.jpg",
-      "first_seen": "2026-09-08T14:31:36.328071+00:00",
-      "id": "B0HD7R35X8",
-      "status": "new"
-    },
     {
       "key": "B0GG8QM8YS",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-48 随机补充装Vol.9",
@@ -100,17 +78,6 @@
       "image": "https://m.media-amazon.com/images/I/61mZ7W9rbsL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T11:49:07.625077+00:00",
       "id": "B0DWSB1VDQ",
-      "status": "normal"
-    },
-    {
-      "key": "B0DWS3ZFF7",
-      "title": "BEYBLADE X 霸旋陀螺X BX-43 变速箱 白色Ver.",
-      "url": "https://www.amazon.co.jp/dp/B0DWS3ZFF7?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/511H5QhxO+L._AC_UL320_.jpg",
-      "first_seen": "2026-07-01T08:56:03.117374+00:00",
-      "id": "B0DWS3ZFF7",
       "status": "normal"
     },
     {
@@ -210,6 +177,28 @@
       "image": "https://m.media-amazon.com/images/I/71qmFGICiOL._AC_UL320_.jpg",
       "first_seen": "2026-09-06T11:58:05.556490+00:00",
       "id": "B0F1CH2G77",
+      "status": "normal"
+    },
+    {
+      "key": "B0GYBDBH6B",
+      "title": "BEYBLADE X 霸旋陀螺X BX-40 红酒发射器L (× 2)",
+      "url": "https://www.amazon.co.jp/dp/B0GYBDBH6B?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/51mLzKUUCGL._AC_UL320_.jpg",
+      "first_seen": "2026-09-08T14:31:36.328071+00:00",
+      "id": "B0GYBDBH6B",
+      "status": "normal"
+    },
+    {
+      "key": "B0HD7R35X8",
+      "title": "BEYBLADE X UX-00 助推器 天蝎座0-70Z 金属涂层:品红",
+      "url": "https://www.amazon.co.jp/dp/B0HD7R35X8?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61QbEkxXeXL._AC_UL320_.jpg",
+      "first_seen": "2026-09-08T14:31:36.328071+00:00",
+      "id": "B0HD7R35X8",
       "status": "normal"
     }
   ]
