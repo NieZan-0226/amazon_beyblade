@@ -1,19 +1,8 @@
 {
-  "updated_at": "2026-09-09T15:17:30.192037+00:00",
+  "updated_at": "2026-09-09T18:40:27.176978+00:00",
   "source": "Amazon JP",
   "count": 20,
   "products": [
-    {
-      "key": "B0CHR9TB2G",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-17 战斗入门套装",
-      "url": "https://www.amazon.co.jp/dp/B0CHR9TB2G?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61ceZb0LkCL._AC_UL320_.jpg",
-      "first_seen": "2026-09-09T15:17:29.952811+00:00",
-      "id": "B0CHR9TB2G",
-      "status": "new"
-    },
     {
       "key": "B0GG8QM8YS",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-48 随机补充装Vol.9",
@@ -26,14 +15,14 @@
       "status": "normal"
     },
     {
-      "key": "B0GS4M7T5B",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-49 入门 Dorant Strike 4-50FF",
-      "url": "https://www.amazon.co.jp/dp/B0GS4M7T5B?language=zh",
+      "key": "B0G1QZR681",
+      "title": "TAKARA TOMY(タカラトミー) BEYBLADE X ベイブレードX UX-17 スターター メテオドラグーン3-70J",
+      "url": "https://www.amazon.co.jp/dp/B0G1QZR681?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61Xqy93GdAL._AC_UL320_.jpg",
+      "image": "https://m.media-amazon.com/images/I/618F-y-CbbL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GS4M7T5B",
+      "id": "B0G1QZR681",
       "status": "normal"
     },
     {
@@ -221,6 +210,17 @@
       "image": "https://m.media-amazon.com/images/I/61QbEkxXeXL._AC_UL320_.jpg",
       "first_seen": "2026-09-08T14:31:36.328071+00:00",
       "id": "B0HD7R35X8",
+      "status": "normal"
+    },
+    {
+      "key": "B0CHR9TB2G",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-17 战斗入门套装",
+      "url": "https://www.amazon.co.jp/dp/B0CHR9TB2G?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61ceZb0LkCL._AC_UL320_.jpg",
+      "first_seen": "2026-09-09T15:17:29.952811+00:00",
+      "id": "B0CHR9TB2G",
       "status": "normal"
     }
   ]
