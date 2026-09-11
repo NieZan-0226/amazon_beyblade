@@ -1,19 +1,8 @@
 {
-  "updated_at": "2026-09-10T22:42:55.185834+00:00",
+  "updated_at": "2026-09-11T00:33:37.461778+00:00",
   "source": "Amazon JP",
   "count": 22,
   "products": [
-    {
-      "key": "B09NDG4B2M",
-      "title": "霸旋陀螺 爆刃对决 B-194 随机助推器 Vol.27",
-      "url": "https://www.amazon.co.jp/dp/B09NDG4B2M?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61gp6i862ZL._AC_UL320_.jpg",
-      "first_seen": "2026-09-10T22:42:54.876496+00:00",
-      "id": "B09NDG4B2M",
-      "status": "new"
-    },
     {
       "key": "B0GG8QM8YS",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-48 随机补充装Vol.9",
@@ -133,6 +122,17 @@
       "image": "https://m.media-amazon.com/images/I/61uSj-G6M-L._AC_UL320_.jpg",
       "first_seen": "2026-07-07T08:55:19.302308+00:00",
       "id": "B0CHR9SD9Z",
+      "status": "normal"
+    },
+    {
+      "key": "B0CV7D5B6K",
+      "title": "BEYBLADE X ベイブレードX UX-03 增强 巫师之杖 5-70DB",
+      "url": "https://www.amazon.co.jp/dp/B0CV7D5B6K?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/611gwoTOetL._AC_UL320_.jpg",
+      "first_seen": "2026-08-11T15:28:51.707817+00:00",
+      "id": "B0CV7D5B6K",
       "status": "normal"
     },
     {
