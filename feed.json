@@ -1,19 +1,8 @@
 {
-  "updated_at": "2026-09-12T18:05:55.043088+00:00",
+  "updated_at": "2026-09-13T00:08:53.085317+00:00",
   "source": "Amazon JP",
   "count": 19,
   "products": [
-    {
-      "key": "B09LGRVVZB",
-      "title": "TAKARA TOMY 塑料 爆旋陀螺爆裂世代 B-193 增强包 终极瓦尔基里.Lg.V'-9",
-      "url": "https://www.amazon.co.jp/dp/B09LGRVVZB?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/71KQDltlxOL._AC_UL320_.jpg",
-      "first_seen": "2026-09-12T18:05:54.885246+00:00",
-      "id": "B09LGRVVZB",
-      "status": "new"
-    },
     {
       "key": "B0GG8QM8YS",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-48 随机补充装Vol.9",
@@ -48,14 +37,25 @@
       "status": "normal"
     },
     {
-      "key": "B0GMF1DTFB",
-      "title": "TAKARA TOMY(TAKARA TOMY) CX-13 星际巴哈姆特布里茨BK1-50I",
-      "url": "https://www.amazon.co.jp/dp/B0GMF1DTFB?language=zh",
+      "key": "B0GMFHY6ZV",
+      "title": "TAKARA TOMYTAKARA TOMY(TAKARA TOMY) CX-15 增压器拉格纳雷吉FE4-55Y",
+      "url": "https://www.amazon.co.jp/dp/B0GMFHY6ZV?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61gwfg1zFUL._AC_UL320_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71HNhQey5TL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GMF1DTFB",
+      "id": "B0GMFHY6ZV",
+      "status": "normal"
+    },
+    {
+      "key": "B0F47G3QJT",
+      "title": "TAKARA TOMY BEYBLADE X 霸旋陀螺 X UX-14 入门套装 天蝎座长矛 0-70Z",
+      "url": "https://www.amazon.co.jp/dp/B0F47G3QJT?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/712keT+tMML._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0F47G3QJT",
       "status": "normal"
     },
     {
@@ -111,17 +111,6 @@
       "image": "https://m.media-amazon.com/images/I/61uSj-G6M-L._AC_UL320_.jpg",
       "first_seen": "2026-07-07T08:55:19.302308+00:00",
       "id": "B0CHR9SD9Z",
-      "status": "normal"
-    },
-    {
-      "key": "B0DWS7DDK4",
-      "title": "BEYBLADE X 贝blade X CX-01 启动者 龙勇 S6-60V",
-      "url": "https://www.amazon.co.jp/dp/B0DWS7DDK4?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61MpAh-qOsL._AC_UL320_.jpg",
-      "first_seen": "2026-08-16T07:18:05.947589+00:00",
-      "id": "B0DWS7DDK4",
       "status": "normal"
     },
     {
@@ -210,6 +199,17 @@
       "image": "https://m.media-amazon.com/images/I/513k6XI4P0L._AC_UL320_.jpg",
       "first_seen": "2026-09-10T05:58:21.412010+00:00",
       "id": "B0CV73DH8V",
+      "status": "normal"
+    },
+    {
+      "key": "B09LGRVVZB",
+      "title": "TAKARA TOMY 塑料 爆旋陀螺爆裂世代 B-193 增强包 终极瓦尔基里.Lg.V'-9",
+      "url": "https://www.amazon.co.jp/dp/B09LGRVVZB?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/71KQDltlxOL._AC_UL320_.jpg",
+      "first_seen": "2026-09-12T18:05:54.885246+00:00",
+      "id": "B09LGRVVZB",
       "status": "normal"
     }
   ]
