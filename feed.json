@@ -1,28 +1,17 @@
 {
-  "updated_at": "2026-09-15T05:23:06.103840+00:00",
+  "updated_at": "2026-09-15T10:16:56.927890+00:00",
   "source": "Amazon JP",
-  "count": 21,
+  "count": 20,
   "products": [
     {
-      "key": "B0GG8QM8YS",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-48 随机补充装Vol.9",
-      "url": "https://www.amazon.co.jp/dp/B0GG8QM8YS?language=zh",
+      "key": "B0GS4M7T5B",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-49 入门 Dorant Strike 4-50FF",
+      "url": "https://www.amazon.co.jp/dp/B0GS4M7T5B?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61D91mQOqYL._AC_UL320_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61Xqy93GdAL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GG8QM8YS",
-      "status": "normal"
-    },
-    {
-      "key": "B0GMF1DTFB",
-      "title": "TAKARA TOMY(TAKARA TOMY) CX-13 星际巴哈姆特布里茨BK1-50I",
-      "url": "https://www.amazon.co.jp/dp/B0GMF1DTFB?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61gwfg1zFUL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GMF1DTFB",
+      "id": "B0GS4M7T5B",
       "status": "normal"
     },
     {
@@ -37,6 +26,17 @@
       "status": "normal"
     },
     {
+      "key": "B0GMF1DTFB",
+      "title": "TAKARA TOMY(TAKARA TOMY) CX-13 星际巴哈姆特布里茨BK1-50I",
+      "url": "https://www.amazon.co.jp/dp/B0GMF1DTFB?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61gwfg1zFUL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0GMF1DTFB",
+      "status": "normal"
+    },
+    {
       "key": "B0H1B5QDJK",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-18 随机助推器 Brachio Wip 精选",
       "url": "https://www.amazon.co.jp/dp/B0H1B5QDJK?language=zh",
@@ -48,14 +48,14 @@
       "status": "normal"
     },
     {
-      "key": "B0GS4M7T5B",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-49 入门 Dorant Strike 4-50FF",
-      "url": "https://www.amazon.co.jp/dp/B0GS4M7T5B?language=zh",
+      "key": "B0GG8QM8YS",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-48 随机补充装Vol.9",
+      "url": "https://www.amazon.co.jp/dp/B0GG8QM8YS?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61Xqy93GdAL._AC_UL320_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61D91mQOqYL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GS4M7T5B",
+      "id": "B0GG8QM8YS",
       "status": "normal"
     },
     {
@@ -81,17 +81,6 @@
       "status": "normal"
     },
     {
-      "key": "B0GMF7QZQB",
-      "title": "TAKARA TOMY CX-16 起动仪表套装C",
-      "url": "https://www.amazon.co.jp/dp/B0GMF7QZQB?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61poLro7mLL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T14:16:28.392065+00:00",
-      "id": "B0GMF7QZQB",
-      "status": "normal"
-    },
-    {
       "key": "B0DWS3ZFF7",
       "title": "BEYBLADE X 霸旋陀螺X BX-43 变速箱 白色Ver.",
       "url": "https://www.amazon.co.jp/dp/B0DWS3ZFF7?language=zh",
@@ -100,17 +89,6 @@
       "image": "https://m.media-amazon.com/images/I/511H5QhxO+L._AC_UL320_.jpg",
       "first_seen": "2026-07-01T08:56:03.117374+00:00",
       "id": "B0DWS3ZFF7",
-      "status": "normal"
-    },
-    {
-      "key": "B0FNM2MZDB",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-46 战斗入门套装 ∞",
-      "url": "https://www.amazon.co.jp/dp/B0FNM2MZDB?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/617aJK-SJDL._AC_UL320_.jpg",
-      "first_seen": "2026-07-02T05:58:42.993807+00:00",
-      "id": "B0FNM2MZDB",
       "status": "normal"
     },
     {
@@ -136,6 +114,17 @@
       "status": "normal"
     },
     {
+      "key": "B0C52YJQBC",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X BX-10 极限体育场",
+      "url": "https://www.amazon.co.jp/dp/B0C52YJQBC?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/516r5DrOFDL._AC_UL320_.jpg",
+      "first_seen": "2026-07-06T10:18:13.547149+00:00",
+      "id": "B0C52YJQBC",
+      "status": "normal"
+    },
+    {
       "key": "B0CHR9SD9Z",
       "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-15 入门套装 雷昂克罗 5-60P",
       "url": "https://www.amazon.co.jp/dp/B0CHR9SD9Z?language=zh",
@@ -144,6 +133,17 @@
       "image": "https://m.media-amazon.com/images/I/61uSj-G6M-L._AC_UL320_.jpg",
       "first_seen": "2026-07-07T08:55:19.302308+00:00",
       "id": "B0CHR9SD9Z",
+      "status": "normal"
+    },
+    {
+      "key": "B0H861Y9Y3",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-21 健康装备甲板套装",
+      "url": "https://www.amazon.co.jp/dp/B0H861Y9Y3?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/712PbSkR+lL._AC_UL320_.jpg",
+      "first_seen": "2026-07-14T18:16:25.218236+00:00",
+      "id": "B0H861Y9Y3",
       "status": "normal"
     },
     {
@@ -177,17 +177,6 @@
       "image": "https://m.media-amazon.com/images/I/61a+R-A9rTL._AC_UL320_.jpg",
       "first_seen": "2026-09-04T09:53:30.574996+00:00",
       "id": "B0CHRB3TQH",
-      "status": "normal"
-    },
-    {
-      "key": "B0GYC4M6VK",
-      "title": "TAKARA TOMY(TAKARA TOMY) 玩具总动员 真实尺寸会说话的人物伍迪",
-      "url": "https://www.amazon.co.jp/dp/B0GYC4M6VK?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/51O-C1jUunL._AC_UL320_.jpg",
-      "first_seen": "2026-09-05T20:27:13.998156+00:00",
-      "id": "B0GYC4M6VK",
       "status": "normal"
     },
     {
