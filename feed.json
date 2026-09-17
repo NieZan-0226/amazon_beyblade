@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-17T16:16:27.902009+00:00",
+  "updated_at": "2026-09-17T19:44:30.388988+00:00",
   "source": "Amazon JP",
-  "count": 18,
+  "count": 17,
   "products": [
     {
       "key": "B0G1QZR681",
@@ -111,17 +111,6 @@
       "image": "https://m.media-amazon.com/images/I/61uSj-G6M-L._AC_UL320_.jpg",
       "first_seen": "2026-07-07T08:55:19.302308+00:00",
       "id": "B0CHR9SD9Z",
-      "status": "normal"
-    },
-    {
-      "key": "B0HCXR5PWS",
-      "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-19 随机助推器 鳄鱼纹选择",
-      "url": "https://www.amazon.co.jp/dp/B0HCXR5PWS?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/719s+nRbT5L._AC_UL320_.jpg",
-      "first_seen": "2026-08-11T16:24:03.096379+00:00",
-      "id": "B0HCXR5PWS",
       "status": "normal"
     },
     {
