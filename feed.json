@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T15:26:46.211177+00:00",
+  "updated_at": "2026-09-23T22:17:45.706256+00:00",
   "source": "Amazon JP",
   "count": 17,
   "products": [
@@ -48,6 +48,17 @@
       "status": "normal"
     },
     {
+      "key": "B0FNM2MZDB",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-46 战斗入门套装 ∞",
+      "url": "https://www.amazon.co.jp/dp/B0FNM2MZDB?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/617aJK-SJDL._AC_UL320_.jpg",
+      "first_seen": "2026-07-02T05:58:42.993807+00:00",
+      "id": "B0FNM2MZDB",
+      "status": "normal"
+    },
+    {
       "key": "B0F12RK1F4",
       "title": "BEYBLADE X 贝bladeX CX-05 随机增强包Vol.6",
       "url": "https://www.amazon.co.jp/dp/B0F12RK1F4?language=zh",
@@ -81,17 +92,6 @@
       "status": "normal"
     },
     {
-      "key": "B0H861Y9Y3",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-21 健康装备甲板套装",
-      "url": "https://www.amazon.co.jp/dp/B0H861Y9Y3?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/712PbSkR+lL._AC_UL320_.jpg",
-      "first_seen": "2026-07-14T18:16:25.218236+00:00",
-      "id": "B0H861Y9Y3",
-      "status": "normal"
-    },
-    {
       "key": "B0C52S6SNN",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-04 入门 夜挡 3-80N",
       "url": "https://www.amazon.co.jp/dp/B0C52S6SNN?language=zh",
@@ -100,6 +100,17 @@
       "image": "https://m.media-amazon.com/images/I/61uRtZD63RL._AC_UL320_.jpg",
       "first_seen": "2026-07-25T19:56:51.489385+00:00",
       "id": "B0C52S6SNN",
+      "status": "normal"
+    },
+    {
+      "key": "B0CV7D5B6K",
+      "title": "BEYBLADE X ベイブレードX UX-03 增强 巫师之杖 5-70DB",
+      "url": "https://www.amazon.co.jp/dp/B0CV7D5B6K?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/611gwoTOetL._AC_UL320_.jpg",
+      "first_seen": "2026-08-11T15:28:51.707817+00:00",
+      "id": "B0CV7D5B6K",
       "status": "normal"
     },
     {
@@ -155,17 +166,6 @@
       "image": "https://m.media-amazon.com/images/I/61QbEkxXeXL._AC_UL320_.jpg",
       "first_seen": "2026-09-08T14:31:36.328071+00:00",
       "id": "B0HD7R35X8",
-      "status": "normal"
-    },
-    {
-      "key": "B0DC66WCDV",
-      "title": "BEYBLADE X タカラトミー ベイブレードX BX-36 ランダムブースター ホエールウェーブセレクト",
-      "url": "https://www.amazon.co.jp/dp/B0DC66WCDV?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61jDRxmeTsL._AC_UL320_.jpg",
-      "first_seen": "2026-09-09T11:41:58.727046+00:00",
-      "id": "B0DC66WCDV",
       "status": "normal"
     },
     {
