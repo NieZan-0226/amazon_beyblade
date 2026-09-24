@@ -1,19 +1,8 @@
 {
-  "updated_at": "2026-09-24T10:03:30.650966+00:00",
+  "updated_at": "2026-09-24T19:09:23.599432+00:00",
   "source": "Amazon JP",
-  "count": 17,
+  "count": 20,
   "products": [
-    {
-      "key": "B0G1QZR681",
-      "title": "TAKARA TOMY(タカラトミー) BEYBLADE X ベイブレードX UX-17 スターター メテオドラグーン3-70J",
-      "url": "https://www.amazon.co.jp/dp/B0G1QZR681?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/618F-y-CbbL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0G1QZR681",
-      "status": "normal"
-    },
     {
       "key": "B0GG8QM8YS",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-48 随机补充装Vol.9",
@@ -23,6 +12,17 @@
       "image": "https://m.media-amazon.com/images/I/61D91mQOqYL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0GG8QM8YS",
+      "status": "normal"
+    },
+    {
+      "key": "B0G1QZR681",
+      "title": "TAKARA TOMY(タカラトミー) BEYBLADE X ベイブレードX UX-17 スターター メテオドラグーン3-70J",
+      "url": "https://www.amazon.co.jp/dp/B0G1QZR681?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/618F-y-CbbL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0G1QZR681",
       "status": "normal"
     },
     {
@@ -59,6 +59,28 @@
       "status": "normal"
     },
     {
+      "key": "B0H4PPV8MR",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-20 入门 GLOLIVELE LF",
+      "url": "https://www.amazon.co.jp/dp/B0H4PPV8MR?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61UYOrroRUL._AC_UL320_.jpg",
+      "first_seen": "2026-07-01T08:56:03.117374+00:00",
+      "id": "B0H4PPV8MR",
+      "status": "normal"
+    },
+    {
+      "key": "B0FNM2MZDB",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-46 战斗入门套装 ∞",
+      "url": "https://www.amazon.co.jp/dp/B0FNM2MZDB?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/617aJK-SJDL._AC_UL320_.jpg",
+      "first_seen": "2026-07-02T05:58:42.993807+00:00",
+      "id": "B0FNM2MZDB",
+      "status": "normal"
+    },
+    {
       "key": "B0F12RK1F4",
       "title": "BEYBLADE X 贝bladeX CX-05 随机增强包Vol.6",
       "url": "https://www.amazon.co.jp/dp/B0F12RK1F4?language=zh",
@@ -89,6 +111,17 @@
       "image": "https://m.media-amazon.com/images/I/61uSj-G6M-L._AC_UL320_.jpg",
       "first_seen": "2026-07-07T08:55:19.302308+00:00",
       "id": "B0CHR9SD9Z",
+      "status": "normal"
+    },
+    {
+      "key": "B0H861Y9Y3",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-21 健康装备甲板套装",
+      "url": "https://www.amazon.co.jp/dp/B0H861Y9Y3?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/712PbSkR+lL._AC_UL320_.jpg",
+      "first_seen": "2026-07-14T18:16:25.218236+00:00",
+      "id": "B0H861Y9Y3",
       "status": "normal"
     },
     {
@@ -147,17 +180,6 @@
       "status": "normal"
     },
     {
-      "key": "B0GYBDBH6B",
-      "title": "BEYBLADE X 霸旋陀螺X BX-40 红酒发射器L (× 2)",
-      "url": "https://www.amazon.co.jp/dp/B0GYBDBH6B?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/51mLzKUUCGL._AC_UL320_.jpg",
-      "first_seen": "2026-09-08T14:31:36.328071+00:00",
-      "id": "B0GYBDBH6B",
-      "status": "normal"
-    },
-    {
       "key": "B0HD7R35X8",
       "title": "BEYBLADE X UX-00 助推器 天蝎座0-70Z 金属涂层:品红",
       "url": "https://www.amazon.co.jp/dp/B0HD7R35X8?language=zh",
@@ -166,6 +188,17 @@
       "image": "https://m.media-amazon.com/images/I/61QbEkxXeXL._AC_UL320_.jpg",
       "first_seen": "2026-09-08T14:31:36.328071+00:00",
       "id": "B0HD7R35X8",
+      "status": "normal"
+    },
+    {
+      "key": "B0GYBDBH6B",
+      "title": "BEYBLADE X 霸旋陀螺X BX-40 红酒发射器L (× 2)",
+      "url": "https://www.amazon.co.jp/dp/B0GYBDBH6B?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/51mLzKUUCGL._AC_UL320_.jpg",
+      "first_seen": "2026-09-08T14:31:36.328071+00:00",
+      "id": "B0GYBDBH6B",
       "status": "normal"
     },
     {
