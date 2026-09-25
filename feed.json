@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-25T19:25:24.208812+00:00",
+  "updated_at": "2026-09-25T22:39:07.617190+00:00",
   "source": "Amazon JP",
-  "count": 17,
+  "count": 14,
   "products": [
     {
       "key": "B0G1QZR681",
@@ -23,17 +23,6 @@
       "image": "https://m.media-amazon.com/images/I/713NbKuawIL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0H1B5QDJK",
-      "status": "normal"
-    },
-    {
-      "key": "B0D91K2WMS",
-      "title": "BEYBLADE X タカラトミー ベイブレードX UX-06 ブースター レオンクレスト 7-60GN",
-      "url": "https://www.amazon.co.jp/dp/B0D91K2WMS?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61Hddyysl2L._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0D91K2WMS",
       "status": "normal"
     },
     {
@@ -114,17 +103,6 @@
       "status": "normal"
     },
     {
-      "key": "B0CV7D5B6K",
-      "title": "BEYBLADE X ベイブレードX UX-03 增强 巫师之杖 5-70DB",
-      "url": "https://www.amazon.co.jp/dp/B0CV7D5B6K?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/611gwoTOetL._AC_UL320_.jpg",
-      "first_seen": "2026-08-11T15:28:51.707817+00:00",
-      "id": "B0CV7D5B6K",
-      "status": "normal"
-    },
-    {
       "key": "B0CMZRMKPG",
       "title": "BEYBLADE X 霸旋陀螺X BX-24 随机增压器 Vol.2 金属",
       "url": "https://www.amazon.co.jp/dp/B0CMZRMKPG?language=zh",
@@ -177,17 +155,6 @@
       "image": "https://m.media-amazon.com/images/I/61QbEkxXeXL._AC_UL320_.jpg",
       "first_seen": "2026-09-08T14:31:36.328071+00:00",
       "id": "B0HD7R35X8",
-      "status": "normal"
-    },
-    {
-      "key": "B09LGRVVZB",
-      "title": "TAKARA TOMY 塑料 爆旋陀螺爆裂世代 B-193 增强包 终极瓦尔基里.Lg.V'-9",
-      "url": "https://www.amazon.co.jp/dp/B09LGRVVZB?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/71KQDltlxOL._AC_UL320_.jpg",
-      "first_seen": "2026-09-12T18:05:54.885246+00:00",
-      "id": "B09LGRVVZB",
       "status": "normal"
     }
   ]
