@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-26T05:51:37.382557+00:00",
+  "updated_at": "2026-09-26T10:50:58.508181+00:00",
   "source": "Amazon JP",
-  "count": 20,
+  "count": 17,
   "products": [
     {
       "key": "B0G1QZR681",
@@ -15,17 +15,6 @@
       "status": "normal"
     },
     {
-      "key": "B0GG8QM8YS",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-48 随机补充装Vol.9",
-      "url": "https://www.amazon.co.jp/dp/B0GG8QM8YS?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61D91mQOqYL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GG8QM8YS",
-      "status": "normal"
-    },
-    {
       "key": "B0H1B5QDJK",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-18 随机助推器 Brachio Wip 精选",
       "url": "https://www.amazon.co.jp/dp/B0H1B5QDJK?language=zh",
@@ -34,17 +23,6 @@
       "image": "https://m.media-amazon.com/images/I/713NbKuawIL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0H1B5QDJK",
-      "status": "normal"
-    },
-    {
-      "key": "B0D91K2WMS",
-      "title": "BEYBLADE X タカラトミー ベイブレードX UX-06 ブースター レオンクレスト 7-60GN",
-      "url": "https://www.amazon.co.jp/dp/B0D91K2WMS?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61Hddyysl2L._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0D91K2WMS",
       "status": "normal"
     },
     {
@@ -122,17 +100,6 @@
       "image": "https://m.media-amazon.com/images/I/712PbSkR+lL._AC_UL320_.jpg",
       "first_seen": "2026-07-14T18:16:25.218236+00:00",
       "id": "B0H861Y9Y3",
-      "status": "normal"
-    },
-    {
-      "key": "B0C52SMHWN",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-09 战斗通行证",
-      "url": "https://www.amazon.co.jp/dp/B0C52SMHWN?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/51BbPk+4XdL._AC_UL320_.jpg",
-      "first_seen": "2026-07-20T07:57:35.372456+00:00",
-      "id": "B0C52SMHWN",
       "status": "normal"
     },
     {
