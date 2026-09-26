@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-26T10:50:58.508181+00:00",
+  "updated_at": "2026-09-26T14:52:54.441172+00:00",
   "source": "Amazon JP",
   "count": 17,
   "products": [
+    {
+      "key": "B0F47D97BR",
+      "title": "TAKARA TOMY BEYBLADE X 战斗陀螺X CX-06 随机补充包 狐刷精选",
+      "url": "https://www.amazon.co.jp/dp/B0F47D97BR?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/71Q3sIW1H+L._AC_UL320_.jpg",
+      "first_seen": "2026-09-26T14:52:53.620289+00:00",
+      "id": "B0F47D97BR",
+      "status": "new"
+    },
     {
       "key": "B0G1QZR681",
       "title": "TAKARA TOMY(タカラトミー) BEYBLADE X ベイブレードX UX-17 スターター メテオドラグーン3-70J",
@@ -34,17 +45,6 @@
       "image": "https://m.media-amazon.com/images/I/712keT+tMML._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0F47G3QJT",
-      "status": "normal"
-    },
-    {
-      "key": "B0H4PPV8MR",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-20 入门 GLOLIVELE LF",
-      "url": "https://www.amazon.co.jp/dp/B0H4PPV8MR?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61UYOrroRUL._AC_UL320_.jpg",
-      "first_seen": "2026-07-01T08:56:03.117374+00:00",
-      "id": "B0H4PPV8MR",
       "status": "normal"
     },
     {
