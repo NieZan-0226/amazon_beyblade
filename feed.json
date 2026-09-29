@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-29T08:29:48.969044+00:00",
+  "updated_at": "2026-09-29T14:59:20.174259+00:00",
   "source": "Amazon JP",
-  "count": 20,
+  "count": 17,
   "products": [
     {
       "key": "B0D91K2WMS",
@@ -23,17 +23,6 @@
       "image": "https://m.media-amazon.com/images/I/71HNhQey5TL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0GMFHY6ZV",
-      "status": "normal"
-    },
-    {
-      "key": "B0H1B5QDJK",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-18 随机助推器 Brachio Wip 精选",
-      "url": "https://www.amazon.co.jp/dp/B0H1B5QDJK?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/713NbKuawIL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0H1B5QDJK",
       "status": "normal"
     },
     {
@@ -169,17 +158,6 @@
       "status": "normal"
     },
     {
-      "key": "B0HJ7CPXJ6",
-      "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-56 弦发射器 L 白色×紫色",
-      "url": "https://www.amazon.co.jp/dp/B0HJ7CPXJ6?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/51zpUItfErL._AC_UL320_.jpg",
-      "first_seen": "2026-09-15T18:53:13.268050+00:00",
-      "id": "B0HJ7CPXJ6",
-      "status": "normal"
-    },
-    {
       "key": "B0C52N5492",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 战斗陀螺X BX-07 起步冲刺套装",
       "url": "https://www.amazon.co.jp/dp/B0C52N5492?language=zh",
@@ -210,17 +188,6 @@
       "image": "https://m.media-amazon.com/images/I/61Go-nmqTcL._AC_UL320_.jpg",
       "first_seen": "2026-09-29T02:09:39.507218+00:00",
       "id": "B0G5D842SQ",
-      "status": "normal"
-    },
-    {
-      "key": "B0CBLL5WHH",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺 X BX-13 助推器 夜跑 4-80HN 金属",
-      "url": "https://www.amazon.co.jp/dp/B0CBLL5WHH?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61q5E77MepL._AC_UL320_.jpg",
-      "first_seen": "2026-09-29T02:09:39.507218+00:00",
-      "id": "B0CBLL5WHH",
       "status": "normal"
     }
   ]
