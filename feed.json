@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-02T01:17:13.670477+00:00",
+  "updated_at": "2026-10-02T07:02:46.923270+00:00",
   "source": "Amazon JP",
-  "count": 22,
+  "count": 23,
   "products": [
     {
       "key": "B0H1B5QDJK",
@@ -45,6 +45,17 @@
       "image": "https://m.media-amazon.com/images/I/61LOQ-xHnQL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0D6MZB1VF",
+      "status": "normal"
+    },
+    {
+      "key": "B0F47G3QJT",
+      "title": "TAKARA TOMY BEYBLADE X 霸旋陀螺 X UX-14 入门套装 天蝎座长矛 0-70Z",
+      "url": "https://www.amazon.co.jp/dp/B0F47G3QJT?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/712keT+tMML._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0F47G3QJT",
       "status": "normal"
     },
     {
@@ -92,6 +103,17 @@
       "status": "normal"
     },
     {
+      "key": "B0DWSBHQWD",
+      "title": "BEYBLADE X タカラトミー ベイブレードX BX-40 ワインダーランチャーL",
+      "url": "https://www.amazon.co.jp/dp/B0DWSBHQWD?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/41dY7xFDNYL._AC_UL320_.jpg",
+      "first_seen": "2026-07-02T15:40:24.541512+00:00",
+      "id": "B0DWSBHQWD",
+      "status": "normal"
+    },
+    {
       "key": "B0CHR9SD9Z",
       "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-15 入门套装 雷昂克罗 5-60P",
       "url": "https://www.amazon.co.jp/dp/B0CHR9SD9Z?language=zh",
@@ -111,17 +133,6 @@
       "image": "https://m.media-amazon.com/images/I/61jv21uYbaL._AC_UL320_.jpg",
       "first_seen": "2026-07-08T16:38:06.311105+00:00",
       "id": "B0DJQQDFPS",
-      "status": "normal"
-    },
-    {
-      "key": "B0H861Y9Y3",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-21 健康装备甲板套装",
-      "url": "https://www.amazon.co.jp/dp/B0H861Y9Y3?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/712PbSkR+lL._AC_UL320_.jpg",
-      "first_seen": "2026-07-14T18:16:25.218236+00:00",
-      "id": "B0H861Y9Y3",
       "status": "normal"
     },
     {
