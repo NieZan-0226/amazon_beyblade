@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-05T07:41:53.519481+00:00",
+  "updated_at": "2026-10-05T22:50:04.128958+00:00",
   "source": "Amazon JP",
-  "count": 20,
+  "count": 23,
   "products": [
     {
       "key": "B0GG8QM8YS",
@@ -12,17 +12,6 @@
       "image": "https://m.media-amazon.com/images/I/61D91mQOqYL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0GG8QM8YS",
-      "status": "normal"
-    },
-    {
-      "key": "B0D6MZB1VF",
-      "title": "BEYBLADE X ベイブレードX BX-34 启动器 钴龙 2-60C",
-      "url": "https://www.amazon.co.jp/dp/B0D6MZB1VF?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61LOQ-xHnQL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0D6MZB1VF",
       "status": "normal"
     },
     {
@@ -37,6 +26,17 @@
       "status": "normal"
     },
     {
+      "key": "B0D6MZB1VF",
+      "title": "BEYBLADE X ベイブレードX BX-34 启动器 钴龙 2-60C",
+      "url": "https://www.amazon.co.jp/dp/B0D6MZB1VF?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61LOQ-xHnQL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0D6MZB1VF",
+      "status": "normal"
+    },
+    {
       "key": "B0H4PK66SN",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-00 入门 Storm Pigasis 3-70RA",
       "url": "https://www.amazon.co.jp/dp/B0H4PK66SN?language=zh",
@@ -48,14 +48,14 @@
       "status": "normal"
     },
     {
-      "key": "B0G1QZR681",
-      "title": "TAKARA TOMY(タカラトミー) BEYBLADE X ベイブレードX UX-17 スターター メテオドラグーン3-70J",
-      "url": "https://www.amazon.co.jp/dp/B0G1QZR681?language=zh",
+      "key": "B0H4PPV8MR",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-20 入门 GLOLIVELE LF",
+      "url": "https://www.amazon.co.jp/dp/B0H4PPV8MR?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/618F-y-CbbL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0G1QZR681",
+      "image": "https://m.media-amazon.com/images/I/61UYOrroRUL._AC_UL320_.jpg",
+      "first_seen": "2026-07-01T08:56:03.117374+00:00",
+      "id": "B0H4PPV8MR",
       "status": "normal"
     },
     {
@@ -78,6 +78,17 @@
       "image": "https://m.media-amazon.com/images/I/611c0mktBHL._AC_UL320_.jpg",
       "first_seen": "2026-07-02T11:32:55.945060+00:00",
       "id": "B0F12RK1F4",
+      "status": "normal"
+    },
+    {
+      "key": "B0DWSBHQWD",
+      "title": "BEYBLADE X タカラトミー ベイブレードX BX-40 ワインダーランチャーL",
+      "url": "https://www.amazon.co.jp/dp/B0DWSBHQWD?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/41dY7xFDNYL._AC_UL320_.jpg",
+      "first_seen": "2026-07-02T15:40:24.541512+00:00",
+      "id": "B0DWSBHQWD",
       "status": "normal"
     },
     {
@@ -111,6 +122,17 @@
       "image": "https://m.media-amazon.com/images/I/61jv21uYbaL._AC_UL320_.jpg",
       "first_seen": "2026-07-08T16:38:06.311105+00:00",
       "id": "B0DJQQDFPS",
+      "status": "normal"
+    },
+    {
+      "key": "B0H861Y9Y3",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-21 健康装备甲板套装",
+      "url": "https://www.amazon.co.jp/dp/B0H861Y9Y3?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/712PbSkR+lL._AC_UL320_.jpg",
+      "first_seen": "2026-07-14T18:16:25.218236+00:00",
+      "id": "B0H861Y9Y3",
       "status": "normal"
     },
     {
@@ -221,6 +243,17 @@
       "image": "https://m.media-amazon.com/images/I/61Go-nmqTcL._AC_UL320_.jpg",
       "first_seen": "2026-09-29T02:09:39.507218+00:00",
       "id": "B0G5D842SQ",
+      "status": "normal"
+    },
+    {
+      "key": "B0H8SVP3YP",
+      "title": "BEYBLADE X 霸旋陀螺X BX-25 齿轮收纳包",
+      "url": "https://www.amazon.co.jp/dp/B0H8SVP3YP?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/51fVl6f3qzL._AC_UL320_.jpg",
+      "first_seen": "2026-10-03T06:51:26.270594+00:00",
+      "id": "B0H8SVP3YP",
       "status": "normal"
     }
   ]
