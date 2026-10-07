@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-06T20:58:30.488448+00:00",
+  "updated_at": "2026-10-07T00:22:38.665472+00:00",
   "source": "Amazon JP",
-  "count": 20,
+  "count": 21,
   "products": [
     {
       "key": "B0GG8QM8YS",
@@ -23,6 +23,17 @@
       "image": "https://m.media-amazon.com/images/I/61Hddyysl2L._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0D91K2WMS",
+      "status": "normal"
+    },
+    {
+      "key": "B0GS4M7T5B",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-49 入门 Dorant Strike 4-50FF",
+      "url": "https://www.amazon.co.jp/dp/B0GS4M7T5B?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61Xqy93GdAL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0GS4M7T5B",
       "status": "normal"
     },
     {
@@ -78,17 +89,6 @@
       "image": "https://m.media-amazon.com/images/I/611c0mktBHL._AC_UL320_.jpg",
       "first_seen": "2026-07-02T11:32:55.945060+00:00",
       "id": "B0F12RK1F4",
-      "status": "normal"
-    },
-    {
-      "key": "B0CMZQ9157",
-      "title": "BEYBLADE X 霸旋陀螺X BX-25 齿轮包",
-      "url": "https://www.amazon.co.jp/dp/B0CMZQ9157?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/619ruy98JUL._AC_UL320_.jpg",
-      "first_seen": "2026-07-05T07:24:23.211054+00:00",
-      "id": "B0CMZQ9157",
       "status": "normal"
     },
     {
@@ -221,6 +221,17 @@
       "image": "https://m.media-amazon.com/images/I/61Go-nmqTcL._AC_UL320_.jpg",
       "first_seen": "2026-09-29T02:09:39.507218+00:00",
       "id": "B0G5D842SQ",
+      "status": "normal"
+    },
+    {
+      "key": "B0H8SVP3YP",
+      "title": "BEYBLADE X 霸旋陀螺X BX-25 齿轮收纳包",
+      "url": "https://www.amazon.co.jp/dp/B0H8SVP3YP?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/51fVl6f3qzL._AC_UL320_.jpg",
+      "first_seen": "2026-10-03T06:51:26.270594+00:00",
+      "id": "B0H8SVP3YP",
       "status": "normal"
     }
   ]
