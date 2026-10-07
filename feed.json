@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-07T13:32:29.800720+00:00",
+  "updated_at": "2026-10-07T19:28:28.388538+00:00",
   "source": "Amazon JP",
-  "count": 24,
+  "count": 23,
   "products": [
     {
       "key": "B0GG8QM8YS",
@@ -133,17 +133,6 @@
       "image": "https://m.media-amazon.com/images/I/61jv21uYbaL._AC_UL320_.jpg",
       "first_seen": "2026-07-08T16:38:06.311105+00:00",
       "id": "B0DJQQDFPS",
-      "status": "normal"
-    },
-    {
-      "key": "B0H861Y9Y3",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-21 健康装备甲板套装",
-      "url": "https://www.amazon.co.jp/dp/B0H861Y9Y3?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/712PbSkR+lL._AC_UL320_.jpg",
-      "first_seen": "2026-07-14T18:16:25.218236+00:00",
-      "id": "B0H861Y9Y3",
       "status": "normal"
     },
     {
