@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-10-12T21:24:52.761052+00:00",
+  "updated_at": "2026-10-13T02:39:44.016601+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
-    {
-      "key": "B0H1GWGDKW",
-      "title": "霸旋陀螺X BX-00 钴龙2-60C 金属外套:黑色 B4商店限定",
-      "url": "https://www.amazon.co.jp/dp/B0H1GWGDKW?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/6163OSuu5tL._AC_UL320_.jpg",
-      "first_seen": "2026-10-12T21:24:52.254366+00:00",
-      "id": "B0H1GWGDKW",
-      "status": "new"
-    },
-    {
-      "key": "B07QG1P62P",
-      "title": "霸旋陀螺 爆刃对决 B-139 入门 Wizard Favnil.Rt.Rs 闪光",
-      "url": "https://www.amazon.co.jp/dp/B07QG1P62P?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/71WtRij-3wL._AC_UL320_.jpg",
-      "first_seen": "2026-10-12T21:24:52.254366+00:00",
-      "id": "B07QG1P62P",
-      "status": "new"
-    },
     {
       "key": "B0GG8QM8YS",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-48 随机补充装Vol.9",
@@ -78,6 +56,17 @@
       "image": "https://m.media-amazon.com/images/I/61r02QY+sgL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0FH4FF4NJ",
+      "status": "normal"
+    },
+    {
+      "key": "B0FQ9ZSLPD",
+      "title": "TAKARA TOMY(タカラトミー) BEYBLADE X 战斗陀螺X BX-47 拉线发射器L 红色Ver.",
+      "url": "https://www.amazon.co.jp/dp/B0FQ9ZSLPD?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/51tLLvv212L._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0FQ9ZSLPD",
       "status": "normal"
     },
     {
@@ -265,6 +254,17 @@
       "image": "https://m.media-amazon.com/images/I/71lBVzvQaAL._AC_UL320_.jpg",
       "first_seen": "2026-10-10T17:26:12.289781+00:00",
       "id": "B0C52KJB9K",
+      "status": "normal"
+    },
+    {
+      "key": "B07QG1P62P",
+      "title": "霸旋陀螺 爆刃对决 B-139 入门 Wizard Favnil.Rt.Rs 闪光",
+      "url": "https://www.amazon.co.jp/dp/B07QG1P62P?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/71WtRij-3wL._AC_UL320_.jpg",
+      "first_seen": "2026-10-12T21:24:52.254366+00:00",
+      "id": "B07QG1P62P",
       "status": "normal"
     }
   ]
