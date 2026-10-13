@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T02:39:44.016601+00:00",
+  "updated_at": "2026-10-13T09:44:34.529710+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -12,6 +12,17 @@
       "image": "https://m.media-amazon.com/images/I/61D91mQOqYL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0GG8QM8YS",
+      "status": "normal"
+    },
+    {
+      "key": "B0G1QZR681",
+      "title": "TAKARA TOMY(タカラトミー) BEYBLADE X ベイブレードX UX-17 スターター メテオドラグーン3-70J",
+      "url": "https://www.amazon.co.jp/dp/B0G1QZR681?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/618F-y-CbbL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0G1QZR681",
       "status": "normal"
     },
     {
@@ -37,17 +48,6 @@
       "status": "normal"
     },
     {
-      "key": "B0H4PK66SN",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-00 入门 Storm Pigasis 3-70RA",
-      "url": "https://www.amazon.co.jp/dp/B0H4PK66SN?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61CFyvfN1XL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0H4PK66SN",
-      "status": "normal"
-    },
-    {
       "key": "B0FH4FF4NJ",
       "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-45 助推器 サムライカリバー6-70M",
       "url": "https://www.amazon.co.jp/dp/B0FH4FF4NJ?language=zh",
@@ -56,6 +56,17 @@
       "image": "https://m.media-amazon.com/images/I/61r02QY+sgL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0FH4FF4NJ",
+      "status": "normal"
+    },
+    {
+      "key": "B0H4PK66SN",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-00 入门 Storm Pigasis 3-70RA",
+      "url": "https://www.amazon.co.jp/dp/B0H4PK66SN?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61CFyvfN1XL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0H4PK66SN",
       "status": "normal"
     },
     {
@@ -254,17 +265,6 @@
       "image": "https://m.media-amazon.com/images/I/71lBVzvQaAL._AC_UL320_.jpg",
       "first_seen": "2026-10-10T17:26:12.289781+00:00",
       "id": "B0C52KJB9K",
-      "status": "normal"
-    },
-    {
-      "key": "B07QG1P62P",
-      "title": "霸旋陀螺 爆刃对决 B-139 入门 Wizard Favnil.Rt.Rs 闪光",
-      "url": "https://www.amazon.co.jp/dp/B07QG1P62P?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/71WtRij-3wL._AC_UL320_.jpg",
-      "first_seen": "2026-10-12T21:24:52.254366+00:00",
-      "id": "B07QG1P62P",
       "status": "normal"
     }
   ]
