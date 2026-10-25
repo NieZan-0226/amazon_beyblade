@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T16:40:51.854968+00:00",
+  "updated_at": "2026-10-25T21:49:52.254067+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -23,17 +23,6 @@
       "image": "https://m.media-amazon.com/images/I/61gwfg1zFUL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0GMF1DTFB",
-      "status": "normal"
-    },
-    {
-      "key": "B0GMFHY6ZV",
-      "title": "TAKARA TOMYTAKARA TOMY(TAKARA TOMY) CX-15 增压器拉格纳雷吉FE4-55Y",
-      "url": "https://www.amazon.co.jp/dp/B0GMFHY6ZV?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/71HNhQey5TL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GMFHY6ZV",
       "status": "normal"
     },
     {
@@ -169,6 +158,17 @@
       "status": "normal"
     },
     {
+      "key": "B0H861Y9Y3",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-21 健康装备甲板套装",
+      "url": "https://www.amazon.co.jp/dp/B0H861Y9Y3?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/712PbSkR+lL._AC_UL320_.jpg",
+      "first_seen": "2026-07-14T18:16:25.218236+00:00",
+      "id": "B0H861Y9Y3",
+      "status": "normal"
+    },
+    {
       "key": "B0CV7D5B6K",
       "title": "BEYBLADE X ベイブレードX UX-03 增强 巫师之杖 5-70DB",
       "url": "https://www.amazon.co.jp/dp/B0CV7D5B6K?language=zh",
@@ -202,14 +202,14 @@
       "status": "normal"
     },
     {
-      "key": "B0D3TG743N",
-      "title": "BEYBLADE X 贝叶刃X BX-33 增强 白龙虎 3-60U",
-      "url": "https://www.amazon.co.jp/dp/B0D3TG743N?language=zh",
+      "key": "B0CMZRMKPG",
+      "title": "BEYBLADE X 霸旋陀螺X BX-24 随机增压器 Vol.2 金属",
+      "url": "https://www.amazon.co.jp/dp/B0CMZRMKPG?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61mBrZQ8sKL._AC_UL320_.jpg",
-      "first_seen": "2026-09-02T14:42:23.974177+00:00",
-      "id": "B0D3TG743N",
+      "image": "https://m.media-amazon.com/images/I/614YWQ1P4jL._AC_UL320_.jpg",
+      "first_seen": "2026-09-02T10:40:24.687037+00:00",
+      "id": "B0CMZRMKPG",
       "status": "normal"
     },
     {
