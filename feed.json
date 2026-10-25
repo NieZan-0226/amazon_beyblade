@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T21:38:12.796915+00:00",
+  "updated_at": "2026-10-25T01:40:38.270703+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -67,6 +67,17 @@
       "image": "https://m.media-amazon.com/images/I/61Hddyysl2L._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0D91K2WMS",
+      "status": "normal"
+    },
+    {
+      "key": "B0F47G3QJT",
+      "title": "TAKARA TOMY BEYBLADE X 霸旋陀螺 X UX-14 入门套装 天蝎座长矛 0-70Z",
+      "url": "https://www.amazon.co.jp/dp/B0F47G3QJT?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/712keT+tMML._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0F47G3QJT",
       "status": "normal"
     },
     {
@@ -243,17 +254,6 @@
       "image": "https://m.media-amazon.com/images/I/51zpUItfErL._AC_UL320_.jpg",
       "first_seen": "2026-09-15T18:53:13.268050+00:00",
       "id": "B0HJ7CPXJ6",
-      "status": "normal"
-    },
-    {
-      "key": "B0C52N5492",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 战斗陀螺X BX-07 起步冲刺套装",
-      "url": "https://www.amazon.co.jp/dp/B0C52N5492?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61AQJa-Ha6L._AC_UL320_.jpg",
-      "first_seen": "2026-09-23T01:15:33.379995+00:00",
-      "id": "B0C52N5492",
       "status": "normal"
     },
     {
