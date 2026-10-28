@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-10-27T23:54:29.191171+00:00",
+  "updated_at": "2026-10-28T04:05:27.585694+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
+    {
+      "key": "B0G1QZR681",
+      "title": "TAKARA TOMY(タカラトミー) BEYBLADE X ベイブレードX UX-17 スターター メテオドラグーン3-70J",
+      "url": "https://www.amazon.co.jp/dp/B0G1QZR681?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/618F-y-CbbL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0G1QZR681",
+      "status": "normal"
+    },
+    {
+      "key": "B0GG8QM8YS",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-48 随机补充装Vol.9",
+      "url": "https://www.amazon.co.jp/dp/B0GG8QM8YS?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61D91mQOqYL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0GG8QM8YS",
+      "status": "normal"
+    },
     {
       "key": "B0GS4F6977",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-19 星光弹珠H",
@@ -202,17 +224,6 @@
       "status": "normal"
     },
     {
-      "key": "B0CMZRMKPG",
-      "title": "BEYBLADE X 霸旋陀螺X BX-24 随机增压器 Vol.2 金属",
-      "url": "https://www.amazon.co.jp/dp/B0CMZRMKPG?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/614YWQ1P4jL._AC_UL320_.jpg",
-      "first_seen": "2026-09-02T10:40:24.687037+00:00",
-      "id": "B0CMZRMKPG",
-      "status": "normal"
-    },
-    {
       "key": "B0CHRB3TQH",
       "title": "タカラトミー(TAKARA TOMY) BEYBLADE X ベイブレードX BX-16 随机补充包 毒蛇尾巴精选 金属 6岁以上",
       "url": "https://www.amazon.co.jp/dp/B0CHRB3TQH?language=zh",
@@ -221,17 +232,6 @@
       "image": "https://m.media-amazon.com/images/I/61a+R-A9rTL._AC_UL320_.jpg",
       "first_seen": "2026-09-04T09:53:30.574996+00:00",
       "id": "B0CHRB3TQH",
-      "status": "normal"
-    },
-    {
-      "key": "B0GYBDBH6B",
-      "title": "BEYBLADE X 霸旋陀螺X BX-40 红酒发射器L (× 2)",
-      "url": "https://www.amazon.co.jp/dp/B0GYBDBH6B?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/51mLzKUUCGL._AC_UL320_.jpg",
-      "first_seen": "2026-09-08T14:31:36.328071+00:00",
-      "id": "B0GYBDBH6B",
       "status": "normal"
     },
     {
