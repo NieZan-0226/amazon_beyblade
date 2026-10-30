@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T16:14:18.859835+00:00",
+  "updated_at": "2026-10-30T20:48:20.022543+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -125,17 +125,6 @@
       "status": "normal"
     },
     {
-      "key": "B0GMF7QZQB",
-      "title": "TAKARA TOMY CX-16 起动仪表套装C",
-      "url": "https://www.amazon.co.jp/dp/B0GMF7QZQB?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61poLro7mLL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T14:16:28.392065+00:00",
-      "id": "B0GMF7QZQB",
-      "status": "normal"
-    },
-    {
       "key": "B0DWS3ZFF7",
       "title": "BEYBLADE X 霸旋陀螺X BX-43 变速箱 白色Ver.",
       "url": "https://www.amazon.co.jp/dp/B0DWS3ZFF7?language=zh",
@@ -224,14 +213,14 @@
       "status": "normal"
     },
     {
-      "key": "B0HCXR5PWS",
-      "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-19 随机助推器 鳄鱼纹选择",
-      "url": "https://www.amazon.co.jp/dp/B0HCXR5PWS?language=zh",
+      "key": "B0CKQSX6CS",
+      "title": "BEYBLADE X ベイブレードX BX-20 ドランダガーデッキセット 金属",
+      "url": "https://www.amazon.co.jp/dp/B0CKQSX6CS?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/719s+nRbT5L._AC_UL320_.jpg",
-      "first_seen": "2026-08-11T16:24:03.096379+00:00",
-      "id": "B0HCXR5PWS",
+      "image": "https://m.media-amazon.com/images/I/61-CxbqhYFL._AC_UL320_.jpg",
+      "first_seen": "2026-08-21T07:23:32.174139+00:00",
+      "id": "B0CKQSX6CS",
       "status": "normal"
     },
     {
@@ -254,6 +243,17 @@
       "image": "https://m.media-amazon.com/images/I/61q5jy4IkFL._AC_UL320_.jpg",
       "first_seen": "2026-08-26T18:27:33.008463+00:00",
       "id": "B0DJQQ38TG",
+      "status": "normal"
+    },
+    {
+      "key": "B0CHRB3TQH",
+      "title": "タカラトミー(TAKARA TOMY) BEYBLADE X ベイブレードX BX-16 随机补充包 毒蛇尾巴精选 金属 6岁以上",
+      "url": "https://www.amazon.co.jp/dp/B0CHRB3TQH?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61a+R-A9rTL._AC_UL320_.jpg",
+      "first_seen": "2026-09-04T09:53:30.574996+00:00",
+      "id": "B0CHRB3TQH",
       "status": "normal"
     },
     {
