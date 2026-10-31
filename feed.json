@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T06:05:43.800245+00:00",
+  "updated_at": "2026-10-31T12:27:34.940775+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
@@ -15,17 +15,6 @@
       "status": "normal"
     },
     {
-      "key": "B0GS4M7T5B",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-49 入门 Dorant Strike 4-50FF",
-      "url": "https://www.amazon.co.jp/dp/B0GS4M7T5B?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61Xqy93GdAL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GS4M7T5B",
-      "status": "normal"
-    },
-    {
       "key": "B0GG8QM8YS",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-48 随机补充装Vol.9",
       "url": "https://www.amazon.co.jp/dp/B0GG8QM8YS?language=zh",
@@ -37,17 +26,6 @@
       "status": "normal"
     },
     {
-      "key": "B0H1B5QDJK",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-18 随机助推器 Brachio Wip 精选",
-      "url": "https://www.amazon.co.jp/dp/B0H1B5QDJK?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/713NbKuawIL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0H1B5QDJK",
-      "status": "normal"
-    },
-    {
       "key": "B0C52C4L3T",
       "title": "宝汤米(TAKARA TOMY) BEYBLADE X 贝叶刃X BX-02 启动器 地狱尺寸 4-60T",
       "url": "https://www.amazon.co.jp/dp/B0C52C4L3T?language=zh",
@@ -56,6 +34,17 @@
       "image": "https://m.media-amazon.com/images/I/61aJExH96+L._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
       "id": "B0C52C4L3T",
+      "status": "normal"
+    },
+    {
+      "key": "B0H1B5QDJK",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-18 随机助推器 Brachio Wip 精选",
+      "url": "https://www.amazon.co.jp/dp/B0H1B5QDJK?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/713NbKuawIL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0H1B5QDJK",
       "status": "normal"
     },
     {
@@ -180,6 +169,17 @@
       "status": "normal"
     },
     {
+      "key": "B0H19XNXW2",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X BX-51 弦发射器 黑色×绿色",
+      "url": "https://www.amazon.co.jp/dp/B0H19XNXW2?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/51gwI+uzFUL._AC_UL320_.jpg",
+      "first_seen": "2026-07-07T14:30:49.477833+00:00",
+      "id": "B0H19XNXW2",
+      "status": "normal"
+    },
+    {
       "key": "B0DJQQDFPS",
       "title": "BEYBLADE X ベイブレードX UX-09 启动器 武士剑2-70L",
       "url": "https://www.amazon.co.jp/dp/B0DJQQDFPS?language=zh",
@@ -199,6 +199,17 @@
       "image": "https://m.media-amazon.com/images/I/61uqJHueE4L._AC_UL320_.jpg",
       "first_seen": "2026-07-14T09:24:53.569810+00:00",
       "id": "B0F89Y6XQ1",
+      "status": "normal"
+    },
+    {
+      "key": "B0C52SMHWN",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-09 战斗通行证",
+      "url": "https://www.amazon.co.jp/dp/B0C52SMHWN?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/51BbPk+4XdL._AC_UL320_.jpg",
+      "first_seen": "2026-07-20T07:57:35.372456+00:00",
+      "id": "B0C52SMHWN",
       "status": "normal"
     },
     {
@@ -246,25 +257,14 @@
       "status": "normal"
     },
     {
-      "key": "B0F47D97BR",
-      "title": "TAKARA TOMY BEYBLADE X 战斗陀螺X CX-06 随机补充包 狐刷精选",
-      "url": "https://www.amazon.co.jp/dp/B0F47D97BR?language=zh",
+      "key": "B0HJ7CPXJ6",
+      "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-56 弦发射器 L 白色×紫色",
+      "url": "https://www.amazon.co.jp/dp/B0HJ7CPXJ6?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/71Q3sIW1H+L._AC_UL320_.jpg",
-      "first_seen": "2026-09-26T14:52:53.620289+00:00",
-      "id": "B0F47D97BR",
-      "status": "normal"
-    },
-    {
-      "key": "B0HJ783F18",
-      "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 霸旋陀螺 X BX-52 启动器 光栅 泻湖 6-60LC",
-      "url": "https://www.amazon.co.jp/dp/B0HJ783F18?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/614GF1YCSWL._AC_UL320_.jpg",
-      "first_seen": "2026-10-26T21:00:17.078975+00:00",
-      "id": "B0HJ783F18",
+      "image": "https://m.media-amazon.com/images/I/51zpUItfErL._AC_UL320_.jpg",
+      "first_seen": "2026-09-15T18:53:13.268050+00:00",
+      "id": "B0HJ7CPXJ6",
       "status": "normal"
     }
   ]
