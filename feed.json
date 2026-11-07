@@ -1,51 +1,51 @@
 {
-  "updated_at": "2026-11-07T00:56:00.682418+00:00",
+  "updated_at": "2026-11-07T22:11:00.752992+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
     {
-      "key": "B0DWS3ZFF7",
-      "title": "BEYBLADE X 霸旋陀螺X BX-43 变速箱 白色Ver.",
-      "url": "https://www.amazon.co.jp/dp/B0DWS3ZFF7?language=zh",
-      "price": 3411.0,
+      "key": "B0GMFHY6ZV",
+      "title": "TAKARA TOMYTAKARA TOMY(TAKARA TOMY) CX-15 增压器拉格纳雷吉FE4-55Y",
+      "url": "https://www.amazon.co.jp/dp/B0GMFHY6ZV?language=zh",
+      "price": 2130.0,
       "in_stock": true,
-      "image": "https://m.media-amazon.com/images/I/511H5QhxO+L._AC_UL320_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71HNhQey5TL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0GMFHY6ZV",
+      "status": "restock"
+    },
+    {
+      "key": "B0CV7HF3W6",
+      "title": "BEYBLADE X 贝blade X UX-01 启动器 龙冲击者 1-60A",
+      "url": "https://www.amazon.co.jp/dp/B0CV7HF3W6?language=zh",
+      "price": 2965.0,
+      "in_stock": true,
+      "image": "https://m.media-amazon.com/images/I/61-+DlVImfL._AC_UL320_.jpg",
       "first_seen": "2026-07-01T08:56:03.117374+00:00",
-      "id": "B0DWS3ZFF7",
+      "id": "B0CV7HF3W6",
       "status": "restock"
     },
     {
-      "key": "B0CMZSRJ3Q",
-      "title": "BEYBLADE X 霸旋陀螺X BX-23 入门 凤凰翼 9-60GF 金属",
-      "url": "https://www.amazon.co.jp/dp/B0CMZSRJ3Q?language=zh",
-      "price": 3150.0,
+      "key": "B0GSTMQB77",
+      "title": "TAKARA TOMYTAKARA TOMYTAKARA TOMYTAKARA TOMY多美商场活动限定 BEYBLADE X CX-00新世纪福音战士套组",
+      "url": "https://www.amazon.co.jp/dp/B0GSTMQB77?language=zh",
+      "price": 2100.0,
       "in_stock": true,
-      "image": "https://m.media-amazon.com/images/I/715NtHVPy-L._AC_UL320_.jpg",
-      "first_seen": "2026-07-07T22:10:29.662831+00:00",
-      "id": "B0CMZSRJ3Q",
+      "image": "https://m.media-amazon.com/images/I/61HDjXEfJWL._AC_UL320_.jpg",
+      "first_seen": "2026-09-09T11:41:58.727046+00:00",
+      "id": "B0GSTMQB77",
       "status": "restock"
     },
     {
-      "key": "B0C52SMHWN",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-09 战斗通行证",
-      "url": "https://www.amazon.co.jp/dp/B0C52SMHWN?language=zh",
-      "price": 6440.0,
-      "in_stock": true,
-      "image": "https://m.media-amazon.com/images/I/51BbPk+4XdL._AC_UL320_.jpg",
-      "first_seen": "2026-07-20T07:57:35.372456+00:00",
-      "id": "B0C52SMHWN",
-      "status": "restock"
-    },
-    {
-      "key": "B0HJ7CPXJ6",
-      "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-56 弦发射器 L 白色×紫色",
-      "url": "https://www.amazon.co.jp/dp/B0HJ7CPXJ6?language=zh",
-      "price": 1100.0,
-      "in_stock": true,
-      "image": "https://m.media-amazon.com/images/I/51zpUItfErL._AC_UL320_.jpg",
-      "first_seen": "2026-09-15T18:53:13.268050+00:00",
-      "id": "B0HJ7CPXJ6",
-      "status": "restock"
+      "key": "B0GS4M7T5B",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-49 入门 Dorant Strike 4-50FF",
+      "url": "https://www.amazon.co.jp/dp/B0GS4M7T5B?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61Xqy93GdAL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0GS4M7T5B",
+      "status": "normal"
     },
     {
       "key": "B0GS4F6977",
@@ -92,17 +92,6 @@
       "status": "normal"
     },
     {
-      "key": "B0DGFZND26",
-      "title": "BEYBLADE X 贝blade X UX-08 启动器 银狼 3-80FB",
-      "url": "https://www.amazon.co.jp/dp/B0DGFZND26?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61ms17dm4vL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0DGFZND26",
-      "status": "normal"
-    },
-    {
       "key": "B0G1QZR681",
       "title": "TAKARA TOMY(タカラトミー) BEYBLADE X ベイブレードX UX-17 スターター メテオドラグーン3-70J",
       "url": "https://www.amazon.co.jp/dp/B0G1QZR681?language=zh",
@@ -125,25 +114,14 @@
       "status": "normal"
     },
     {
-      "key": "B0GMFHY6ZV",
-      "title": "TAKARA TOMYTAKARA TOMY(TAKARA TOMY) CX-15 增压器拉格纳雷吉FE4-55Y",
-      "url": "https://www.amazon.co.jp/dp/B0GMFHY6ZV?language=zh",
+      "key": "B0DWSB1VDQ",
+      "title": "BEYBLADE X 霸旋陀螺X BX-42 橡胶定制握柄 蓝色Ver.",
+      "url": "https://www.amazon.co.jp/dp/B0DWSB1VDQ?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/71HNhQey5TL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GMFHY6ZV",
-      "status": "normal"
-    },
-    {
-      "key": "B0GG8V3N79",
-      "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 爆旋陀螺X CX-12 补充包 凤凰烈焰 Z9-80WW",
-      "url": "https://www.amazon.co.jp/dp/B0GG8V3N79?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/616LLncUykL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GG8V3N79",
+      "image": "https://m.media-amazon.com/images/I/61mZ7W9rbsL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T11:49:07.625077+00:00",
+      "id": "B0DWSB1VDQ",
       "status": "normal"
     },
     {
@@ -158,14 +136,14 @@
       "status": "normal"
     },
     {
-      "key": "B0C533Q31X",
-      "title": "タカラトミー(TAKARA TOMY) BEYBLADE X ベイブレードX BX-11 发射器手柄",
-      "url": "https://www.amazon.co.jp/dp/B0C533Q31X?language=zh",
+      "key": "B0FNM2MZDB",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-46 战斗入门套装 ∞",
+      "url": "https://www.amazon.co.jp/dp/B0FNM2MZDB?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/41I+55DN8yL._AC_UL320_.jpg",
-      "first_seen": "2026-07-01T00:21:36.335196+00:00",
-      "id": "B0C533Q31X",
+      "image": "https://m.media-amazon.com/images/I/617aJK-SJDL._AC_UL320_.jpg",
+      "first_seen": "2026-07-02T05:58:42.993807+00:00",
+      "id": "B0FNM2MZDB",
       "status": "normal"
     },
     {
@@ -202,6 +180,17 @@
       "status": "normal"
     },
     {
+      "key": "B0CMZSRJ3Q",
+      "title": "BEYBLADE X 霸旋陀螺X BX-23 入门 凤凰翼 9-60GF 金属",
+      "url": "https://www.amazon.co.jp/dp/B0CMZSRJ3Q?language=zh",
+      "price": 3150.0,
+      "in_stock": true,
+      "image": "https://m.media-amazon.com/images/I/715NtHVPy-L._AC_UL320_.jpg",
+      "first_seen": "2026-07-07T22:10:29.662831+00:00",
+      "id": "B0CMZSRJ3Q",
+      "status": "normal"
+    },
+    {
       "key": "B0DWS96T4F",
       "title": "BEYBLADE X 贝blade X BX-41 橡胶定制握把 金属色Ver.",
       "url": "https://www.amazon.co.jp/dp/B0DWS96T4F?language=zh",
@@ -210,6 +199,17 @@
       "image": "https://m.media-amazon.com/images/I/51nupFqvG0L._AC_UL320_.jpg",
       "first_seen": "2026-07-08T08:45:14.858645+00:00",
       "id": "B0DWS96T4F",
+      "status": "normal"
+    },
+    {
+      "key": "B0C52SMHWN",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-09 战斗通行证",
+      "url": "https://www.amazon.co.jp/dp/B0C52SMHWN?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/51BbPk+4XdL._AC_UL320_.jpg",
+      "first_seen": "2026-07-20T07:57:35.372456+00:00",
+      "id": "B0C52SMHWN",
       "status": "normal"
     },
     {
@@ -246,14 +246,14 @@
       "status": "normal"
     },
     {
-      "key": "B0GSTMQB77",
-      "title": "TAKARA TOMYTAKARA TOMYTAKARA TOMYTAKARA TOMY多美商场活动限定 BEYBLADE X CX-00新世纪福音战士套组",
-      "url": "https://www.amazon.co.jp/dp/B0GSTMQB77?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61HDjXEfJWL._AC_UL320_.jpg",
-      "first_seen": "2026-09-09T11:41:58.727046+00:00",
-      "id": "B0GSTMQB77",
+      "key": "B0HJ7CPXJ6",
+      "title": "タカラトミー(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-56 弦发射器 L 白色×紫色",
+      "url": "https://www.amazon.co.jp/dp/B0HJ7CPXJ6?language=zh",
+      "price": 1062.0,
+      "in_stock": true,
+      "image": "https://m.media-amazon.com/images/I/51zpUItfErL._AC_UL320_.jpg",
+      "first_seen": "2026-09-15T18:53:13.268050+00:00",
+      "id": "B0HJ7CPXJ6",
       "status": "normal"
     },
     {
