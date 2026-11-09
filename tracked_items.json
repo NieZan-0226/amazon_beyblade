@@ -1085,8 +1085,8 @@
     "last_missing_at": "2026-11-09T01:58:45.895604+00:00"
   },
   "__meta__": {
-    "consecutive_failures": 1,
-    "last_failure_at": "2026-11-09T09:14:37.209743+00:00",
-    "last_error": "curl_cffi: HTTP 503; requests: HTTP 503"
+    "consecutive_failures": 2,
+    "last_failure_at": "2026-11-09T19:49:51.115002+00:00",
+    "last_error": "curl_cffi: 沒有商品卡，title=unknown，length=2705; requests: 沒有商品卡，title=unknown，length=2705"
   }
 }
