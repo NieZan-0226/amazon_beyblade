@@ -1,19 +1,8 @@
 {
-  "updated_at": "2026-11-10T10:16:55.905980+00:00",
+  "updated_at": "2026-11-11T02:31:52.968756+00:00",
   "source": "Amazon JP",
   "count": 24,
   "products": [
-    {
-      "key": "B0GS4M7T5B",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-49 入门 Dorant Strike 4-50FF",
-      "url": "https://www.amazon.co.jp/dp/B0GS4M7T5B?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61Xqy93GdAL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GS4M7T5B",
-      "status": "normal"
-    },
     {
       "key": "B0GS4F6977",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X UX-19 星光弹珠H",
@@ -26,14 +15,25 @@
       "status": "normal"
     },
     {
-      "key": "B0DMSQ57X5",
-      "title": "BEYBLADE X 霸旋陀螺 X UX-11 入门套装 冲击德雷克9-60LR",
-      "url": "https://www.amazon.co.jp/dp/B0DMSQ57X5?language=zh",
+      "key": "B0FCLJ67NK",
+      "title": "TAKARA TOMY(タカラトミー) BEYBLADE X ベイブレードX CX-07 スターター ペガサスブラストATr",
+      "url": "https://www.amazon.co.jp/dp/B0FCLJ67NK?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61kINR1gxbL._AC_UL320_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61+3io3McIL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0DMSQ57X5",
+      "id": "B0FCLJ67NK",
+      "status": "normal"
+    },
+    {
+      "key": "B0DGFZND26",
+      "title": "BEYBLADE X 贝blade X UX-08 启动器 银狼 3-80FB",
+      "url": "https://www.amazon.co.jp/dp/B0DGFZND26?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/61ms17dm4vL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0DGFZND26",
       "status": "normal"
     },
     {
@@ -59,14 +59,25 @@
       "status": "normal"
     },
     {
-      "key": "B0GMDYS21K",
-      "title": "TAKARA TOMY CX-14 入门款 Night Fortress GV8-70UN",
-      "url": "https://www.amazon.co.jp/dp/B0GMDYS21K?language=zh",
+      "key": "B0GS4M7T5B",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-49 入门 Dorant Strike 4-50FF",
+      "url": "https://www.amazon.co.jp/dp/B0GS4M7T5B?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61N7ksTpjhL._AC_UL320_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61Xqy93GdAL._AC_UL320_.jpg",
       "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GMDYS21K",
+      "id": "B0GS4M7T5B",
+      "status": "normal"
+    },
+    {
+      "key": "B0FV74J4H5",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X CX-10 助推器 狼狩猎F0-60DB",
+      "url": "https://www.amazon.co.jp/dp/B0FV74J4H5?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/71myiiLXiRL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T08:49:50.529838+00:00",
+      "id": "B0FV74J4H5",
       "status": "normal"
     },
     {
@@ -92,36 +103,14 @@
       "status": "normal"
     },
     {
-      "key": "B0C52C4L3T",
-      "title": "宝汤米(TAKARA TOMY) BEYBLADE X 贝叶刃X BX-02 启动器 地狱尺寸 4-60T",
-      "url": "https://www.amazon.co.jp/dp/B0C52C4L3T?language=zh",
+      "key": "B0CZX8ZMGG",
+      "title": "BEYBLADE X ベイブレードX BX-31 ランダムブースターVol.3",
+      "url": "https://www.amazon.co.jp/dp/B0CZX8ZMGG?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61aJExH96+L._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0C52C4L3T",
-      "status": "normal"
-    },
-    {
-      "key": "B0GG8QM8YS",
-      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X 霸旋陀螺X BX-48 随机补充装Vol.9",
-      "url": "https://www.amazon.co.jp/dp/B0GG8QM8YS?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61D91mQOqYL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0GG8QM8YS",
-      "status": "normal"
-    },
-    {
-      "key": "B0D6MZB1VF",
-      "title": "BEYBLADE X ベイブレードX BX-34 启动器 钴龙 2-60C",
-      "url": "https://www.amazon.co.jp/dp/B0D6MZB1VF?language=zh",
-      "price": null,
-      "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/61LOQ-xHnQL._AC_UL320_.jpg",
-      "first_seen": "2026-06-30T08:49:50.529838+00:00",
-      "id": "B0D6MZB1VF",
+      "image": "https://m.media-amazon.com/images/I/61j+1vOw4iL._AC_UL320_.jpg",
+      "first_seen": "2026-06-30T11:49:07.625077+00:00",
+      "id": "B0CZX8ZMGG",
       "status": "normal"
     },
     {
@@ -158,6 +147,17 @@
       "status": "normal"
     },
     {
+      "key": "B0C52YJQBC",
+      "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X BX-10 极限体育场",
+      "url": "https://www.amazon.co.jp/dp/B0C52YJQBC?language=zh",
+      "price": null,
+      "in_stock": false,
+      "image": "https://m.media-amazon.com/images/I/516r5DrOFDL._AC_UL320_.jpg",
+      "first_seen": "2026-07-06T10:18:13.547149+00:00",
+      "id": "B0C52YJQBC",
+      "status": "normal"
+    },
+    {
       "key": "B0H19XNXW2",
       "title": "TAKARA TOMY(TAKARA TOMY) BEYBLADE X BX-51 弦发射器 黑色×绿色",
       "url": "https://www.amazon.co.jp/dp/B0H19XNXW2?language=zh",
@@ -180,14 +180,14 @@
       "status": "normal"
     },
     {
-      "key": "B0DWS96T4F",
-      "title": "BEYBLADE X 贝blade X BX-41 橡胶定制握把 金属色Ver.",
-      "url": "https://www.amazon.co.jp/dp/B0DWS96T4F?language=zh",
+      "key": "B0FH4FD9NB",
+      "title": "TAKARA TOMY BEYBLADE X 战斗陀螺X UX-15 鲨鱼鳞片套牌组合",
+      "url": "https://www.amazon.co.jp/dp/B0FH4FD9NB?language=zh",
       "price": null,
       "in_stock": false,
-      "image": "https://m.media-amazon.com/images/I/51nupFqvG0L._AC_UL320_.jpg",
-      "first_seen": "2026-07-08T08:45:14.858645+00:00",
-      "id": "B0DWS96T4F",
+      "image": "https://m.media-amazon.com/images/I/61UJuDqe8KL._AC_UL320_.jpg",
+      "first_seen": "2026-07-08T22:17:01.180516+00:00",
+      "id": "B0FH4FD9NB",
       "status": "normal"
     },
     {
